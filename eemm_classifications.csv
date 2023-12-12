@@ -1,0 +1,1155 @@
+"Questionnaire","Item","Category1","Category2","Category3","Category4","Category5","Category6"
+"Automatic thought Questionnaire","1. I feel like I'm up against the world.","Affect","Self",NA,NA,NA,NA
+"Automatic thought Questionnaire","2. I’m no good.","Self",NA,NA,NA,NA,NA
+"Automatic thought Questionnaire","3. Why can’t I ever succeed?","Self","Cognition",NA,NA,NA,NA
+"Automatic thought Questionnaire","4. No one understands me.","Self","Context",NA,NA,NA,NA
+"Automatic thought Questionnaire","5. I’ve let people down.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","6. I don’t think I can go on.","Motivation","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","7. I wish I were a better person.","Self","Motivation",NA,NA,NA,NA
+"Automatic thought Questionnaire","8. I’m so weak.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","9. My life’s not going the way I want it to.","Context","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","10.I’m so disappointed in myself.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","11.Nothing feels good anymore.","Affect","Attention",NA,NA,NA,NA
+"Automatic thought Questionnaire","12.I can’t stand this anymore.","Affect","Motivation",NA,NA,NA,NA
+"Automatic thought Questionnaire","13.I can’t get started.","Motivation","Cognition",NA,NA,NA,NA
+"Automatic thought Questionnaire","14.What’s wrong with me?","Self","Cognition",NA,NA,NA,NA
+"Automatic thought Questionnaire","15.I wish I were somewhere else.","Context","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","16.I can’t get things together.","Cognition","Self",NA,NA,NA,NA
+"Automatic thought Questionnaire","17.I hate myself.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","18.I’m worthless.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","19.I wish I could just disappear.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","20.What’s the matter with me?","Self","Cognition",NA,NA,NA,NA
+"Automatic thought Questionnaire","21.I’m a loser.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","22.My life is a mess.","Context","Self",NA,NA,NA,NA
+"Automatic thought Questionnaire","23.I’m a failure.","Self","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","24.I’ll never make it.","Motivation","Cognition",NA,NA,NA,NA
+"Automatic thought Questionnaire","25.I feel so helpless.","Affect","Self",NA,NA,NA,NA
+"Automatic thought Questionnaire","26.Something has to change.","Context","Motivation",NA,NA,NA,NA
+"Automatic thought Questionnaire","27.There must be something wrong with me.","Self","Cognition",NA,NA,NA,NA
+"Automatic thought Questionnaire","28.My future is bleak.","Cognition","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","29.It’s just not worth it.","Motivation","Affect",NA,NA,NA,NA
+"Automatic thought Questionnaire","30.I can’t finish anything.","Overt Behavior","Cognition",NA,NA,NA,NA
+"Working alliance questionnaire","""I feel uncomfortable with my therapist.""","Affect","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist and I agree about the things I will need to do in therapy to help improve my situation.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I am worried about the outcome of these sessions.""","Affect","Attention",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist and I understand each other.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist perceives accurately what my goals are.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I find what I am doing in therapy confusing.""","Cognition","Affect",NA,NA,NA,NA
+"Working alliance questionnaire","""I believe my therapist likes me.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""I wish my therapist and I could clarify the purpose of our sessions.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I disagree with my therapist about what I ought to get out of therapy.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I believe the time my therapist and I are spending together is not spent efficiently.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist does not understand what I am trying to accomplish in therapy.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I am clear on what my responsibilities are in therapy.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""The goals of these sessions are important to me.""","Motivation","Cognition",NA,NA,NA,NA
+"Working alliance questionnaire","""I find what my therapist and I are doing in therapy are unrelated to my concerns.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""I feel that the things I do in therapy will help me to accomplish the changes that I want.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I believe my therapist is genuinely concerned for my welfare.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""I am clear as to what my therapist wants me to do in these sessions.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist and I respect each other.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""I feel that my therapist is not totally honest about his/her feelings toward me.""","Affect","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""I am confident in my therapist's ability to help me.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist and I are working towards mutually agreed upon goals.""","Motivation","Cognition",NA,NA,NA,NA
+"Working alliance questionnaire","""I feel that my therapist appreciates me.""","Affect","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""We agree on what is important for me to work on.""","Motivation","Cognition",NA,NA,NA,NA
+"Working alliance questionnaire","""As a result of these sessions, I am clearer as to how I might be able to change.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist and I trust one another.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist and I have different ideas on what my problems are.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""My relationship with my therapist is very important to me.""","Cognition","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""I have the feeling that if I say or do the wrong things, my therapist will stop working with me.""","Affect","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""My therapist and I collaborate on setting goals for my therapy.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I am frustrated by the things I am doing in therapy.""","Affect","Cognition",NA,NA,NA,NA
+"Working alliance questionnaire","""We have established a good understanding of the kind of changes that would be good for me.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""The things that my therapist is asking me to do don't make sense.""","Cognition","Affect",NA,NA,NA,NA
+"Working alliance questionnaire","""I don't know what to expect as the result of my therapy.""","Cognition","Attention",NA,NA,NA,NA
+"Working alliance questionnaire","""I believe the way we are working with my problem is correct.""","Cognition","Motivation",NA,NA,NA,NA
+"Working alliance questionnaire","""I feel my therapist cares about me even when I do things that he/she does not approve of.""","Affect","Context",NA,NA,NA,NA
+"Working alliance questionnaire","""What I am doing in therapy gives me new ways of looking at my problem.""","Cognition","Motivation ",NA,NA,NA,NA
+"Cope reappraisal hardship",".""When coping with a hardship in my life, I have been trying to get advice or help from other people about what to do.""","Overt Behavior","Context",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been getting comfort and understanding from someone.""","Overt Behavior","Context",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been getting emotional support from others.""","Overt Behavior","Context",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been concentrating my efforts on doing something about the situation I’m in.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been taking action to try to make the situation better.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been trying to come up with a strategy about what to do.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been thinking hard about what steps to take.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been accepting the reality of the fact that it has happened.""","Cognition","Self",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been learning to live with it.""","Cognition","Self",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been turning to work or other activities to take my mind off things.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been doing something to think about it less, such as going to movies, watching TV, reading, daydreaming, sleeping, or shopping.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been saying to myself “this is not real.""""","Cognition","Self",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been refusing to believe that it has happened.""","Cognition","Self",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been making jokes about it.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been making fun of the situation.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been criticizing myself.""","Self","Affect",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been blaming myself for things that happened.""","Self","Affect",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been giving up trying to deal with it.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been giving up the attempt to cope.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been saying things to let my unpleasant feelings escape.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been expressing my negative feelings.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been trying to see it in a different light, to make it seem more positive.""","Cognition","Affect",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been looking for something good in what is happening.""","Cognition","Affect",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been using alcohol or other drugs to make myself feel better.""","Overt Behavior","Affect",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been using alcohol or other drugs to help me get through it.""","Overt Behavior","Affect",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been trying to find comfort in my religion or spiritual beliefs.""","Cognition","Self",NA,NA,NA,NA
+"Cope reappraisal hardship","""When coping with a hardship in my life, I have been praying or meditating.""","Overt Behavior","Self ",NA,NA,NA,NA
+"Coping with urge to smoke marijuana","""1.I engage in some physical activity when I get the urge to smoke marijuana.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Coping with urge to smoke marijuana","""2.to cope with my urge to smoke marijuana, I stop to think about how my marijuana use is hurting people around me.""","Cognition","Affect","Context",NA,NA,NA
+"Coping with urge to smoke marijuana","""3.to cope with my urge to smoke marijana, I leave places where people are using marijuana.""","Overt Behavior","Context",NA,NA,NA,NA
+"Coping with urge to smoke marijuana","""4.to cope with my urge to smoke marijana, I try to remind myself of the good things I have accomplished.""","Cognition","Self","Motivation ",NA,NA,NA
+"Coping with pain","""When I am in pain, I feel I can’t stand it anymore.""","Affect","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, it's awful and I feel that it overwhelms me.""","Affect","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, it's terrible and I feel it’s never going to get any better.""","Affect","Cognition",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I worry all the time about whether it will end. I feel my life isn’t worth living.""","Affect","Cognition","Self",NA,NA,NA
+"Coping with pain","""When I am in pain, I do something I enjoy, such as watching TV or listening to music.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I feel my life isn’t worth living.""","Affect","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I leave the house and do something, such as going to the movies or shopping.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I count numbers in my head or run a song through my mind.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I play mental games with myself to keep my mind off the pain.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I walk a lot.""","Overt Behavior",NA,NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I try to be around other people.""","Overt Behavior","Context",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I tell myself to be brave and to carry on despite the pain.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I tell myself I can’t let the pain stand in the way of what I have to do.""","Cognition","Self","Motivation",NA,NA,NA
+"Coping with pain","""When I am in pain, I see it as a challenge and don’t let it bother me.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I tell myself that I can overcome the pain.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, no matter how bad it gets, I know I can handle it.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, although it hurts, I just keep on going.""","Self","Overt Behavior",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I just go on as if nothing happened.""","Self","Overt Behavior",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I lie down.""","Overt Behavior",NA,NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I do something active, like household chores or projects.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I don’t think about the pain.""","Attention",NA,NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I don’t pay any attention to it.""","Attention",NA,NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I ignore it.""","Attention",NA,NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I imagine that the pain is outside of my body.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I try not to think of it as my body but rather as something separate from me.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I pretend it’s not a part of me.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I try to feel distant from the pain, almost as if the pain was in somebody else’s body.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I pretend it’s not there.""","Cognition","Attention",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I tell myself it doesn’t hurt.""","Cognition","Self",NA,NA,NA,NA
+"Coping with pain","""When I am in pain, I feel like I can’t go on.""","Affect","Self ",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, bargained or compromised to get something positive from the situation.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, counted my blessings.""","Attention","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, blamed myself.""","Self","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, concentrated on something good that could come out of the whole thing.""","Attention","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, kept feelings to myself.""","Affect","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, made sure I'm responding in a way that doesn’t alienate others.""","Overt Behavior","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, figured out who to blame.""","Cognition","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, hoped a miracle would happen.""","Motivation","Attention",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, tried to get centered before taking any action.""","Self","Attention",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, talked to someone about how I’ve been feeling.""","Overt Behavior","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, stood my ground and fought for what I wanted.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, refused to believe that it had happened.""","Cognition","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, treated myself to something really tasty.""","Overt Behavior","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, criticized or lectured myself.""","Self","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, took it out on others.""","Overt Behavior","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, came up with a couple of different solutions to my problem.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, wished I were a stronger person—more optimistic and forceful.""","Self","Motivation",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, accepted my strong feelings, but not let them interfere with other things too much.""","Affect","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, focused on the good things in my life.""","Attention","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, wished that I could change the way that I felt.""","Affect","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, found something beautiful to look at to make me feel better.""","Attention","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, changed something about myself so that I could deal with the situation better.""","Self","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, focused on the good aspects of my life and gave less attention to negative thoughts or feelings.""","Attention","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, got mad at the people or things that caused the problem.""","Affect","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, felt bad that I couldn't avoid the problem.""","Affect","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, tried to distract myself by getting active.""","Overt Behavior","Attention",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, been aware of what has to be done, so I've been doubling my efforts and trying harder to make things work.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, thought that others were unfair to me.""","Cognition","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, soothed myself by surrounding myself with a nice fragrance of some kind.""","Self","Attention",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, blamed others.""","Affect","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, listened to or played music that I found relaxing.""","Self","Attention",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, gone on as if nothing had happened.""","Cognition","Attention",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, accepted the next best thing to what I wanted.""","Motivation","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, told myself things could be worse.""","Cognition","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, occupied my mind with something else.""","Attention","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, talked to someone who could do something concrete about the problem.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, tried to make myself feel better by eating, drinking, smoking, taking medications, etc.""","Self","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, tried not to act too hastily or follow my own hunch.""","Self","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, changed something so things would turn out right.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, pampered myself with something that felt good to the touch (e.g., a bubble bath or a hug).""","Self","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, avoided people.""","Overt Behavior","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, thought how much better off I was than others.""","Cognition","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, just took things one step at a time.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, did something to feel a totally different Affect (like going to a funny movie).""","Overt Behavior","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, wished the situation would go away or somehow be finished.""","Cognition","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, kept others from knowing how bad things were.""","Self","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, focused my energy on helping others.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, found out what other person was responsible.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, made sure to take care of my body and stay healthy so that I was less emotionally sensitive.""","Self","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, told myself how much I had already accomplished.""","Self","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, made sure I respond in a way so that I could still respect myself afterwards.""","Self","Overt Behavior",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, wished that I could change what had happened.""","Cognition","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, made a plan of action and followed it.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, talked to someone to find out about the situation.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, avoided my problem.""","Overt Behavior","Affect",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, stepped back and tried to see things as they really are.""","Cognition","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, compared myself to others who are less fortunate.""","Cognition","Self",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, increased the number of pleasant things in my life so that I had a more positive outlook.""","Self","Attention",NA,NA,NA,NA
+"DBT ways of coping","""In order to cope, tried not to burn my bridges behind me, but leave things open somewhat.""","Overt Behavior","Cognition ",NA,NA,NA,NA
+"Self-regulation for eating scale","1.""I make formal agreements with myself regarding my eating.""","Self","Overt Behavior",NA,NA,NA,NA
+"Self-regulation for eating scale","2.""I schedule my time to eat.""","Overt Behavior",NA,NA,NA,NA,NA
+"Self-regulation for eating scale","3.""I say positive things to myself about eating well.""","Self","Cognition",NA,NA,NA,NA
+"Self-regulation for eating scale","4.""I set eating goals.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Self-regulation for eating scale","5.""I choose healthy foods that are enjoyable to me.""","Overt Behavior","Self",NA,NA,NA,NA
+"Self-regulation for eating scale","6.""I keep a record of my eating.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Self-regulation for eating scale","7.""I try to recruit others to support my eating plans.""","Context","Overt Behavior",NA,NA,NA,NA
+"Self-regulation for eating scale","8.""I reward myself for eating appropriately.""","Motivation","Self",NA,NA,NA,NA
+"Self-regulation for eating scale","9.""When I get off-track with my eating plans, I work to quickly get back to my routine.""","Overt Behavior","Self",NA,NA,NA,NA
+"Self-regulation for eating scale","10.""I purposefully address my barriers to eating appropriately.""","Overt Behavior","Cognition","Motivation",NA,NA,NA
+"Difficulty in emotion regulation scale","1.I am clear about my feeling.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","2.I pay attention to how I feel.","Attention","Affect",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","3.I experience my emotions as overwhelming and out of control.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","4.I have no idea how I am feeling.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","5.I have difficulty making sense out of my feelings .","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","6.I am attentive to my feelings.","Attention","Affect",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","7.I know exactly how I am feeling.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","8.I care about what I am feeling.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","9.I am confused about how I feel.","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","10.When I’m upset, I acknowledge my emotions.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","11. When I’m upset, I become angry with myself for feeling that way","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","12.When I’m upset, I become embarrassed for feeling that way.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","13.When I’m upset, I have difficulty getting work done.","Affect","Overt Behavior",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","14.When I’m upset, I become out of control.","Affect","Overt Behavior",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","15.When I’m upset, I believe that I will remain that way for a long time","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","16.When I’m upset, I believe that I’ll end up feeling very depressed .","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","17.When I’m upset, I believe that my feelings are valid and important.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","18.When I’m upset, I have difficulty focusing on other things.","Affect","Attention",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","19.When I’m upset, I feel out of control.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","20.When I’m upset, I can still get things done.","Affect","Overt Behavior",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","21.When I’m upset, I feel ashamed with myself for feeling that way.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","22.When I’m upset, I know that I can find a way to eventually feel better.","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","23.When I’m upset, I feel like I am weak.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","24.When I’m upset, I feel like I can remain in control of my behaviours.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","25.When I’m upset, I feel guilty for feeling that way.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","26.When I’m upset, I have difficulty concentrating.","Affect","Attention",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","27.When I’m upset, I have difficulty controlling my behaviours.","Affect","Overt Behavior",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","28.When I’m upset, I believe that there is nothing I can do to make myself feel better.","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","29.When I’m upset, I become irritated with myself for feeling that way.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","30.When I’m upset, I start to feel very bad about myself.","Affect","Self",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","31.When I’m upset, I believe that wallowing in it is all I can do.","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","32.When I’m upset, I lose control over my behaviours.","Affect","Overt Behavior",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","33.When I’m upset, I have difficulty thinking about anything else.","Affect","Attention",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","34.When I’m upset I take time to figure out what I’m really feeling.","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","35.When I’m upset, it takes me a long time to feel better.","Affect","Cognition",NA,NA,NA,NA
+"Difficulty in emotion regulation scale","36.When I’m upset, my emotions feel overwhelming.","Affect","Self ",NA,NA,NA,NA
+"Dysfunctional attitude scale","""1.It is difficult to be,happy unless one is good looking, intelligent, rich and creative.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""2.Happiness is more a matter of my attitude towards myself than the way other people feel about me.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""3. People will probably think less of me if I make a mistake.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""4.If I do not do well all the time, people will not respect me.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""5. Taking even a small risk is foolish because the loss is likely to be a disaster.""","Cognition","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""6.It is possible to gain another person's respect without being especially talented at anything.""","Cognition","Self",NA,NA,NA,NA
+"Dysfunctional attitude scale","""7.I cannot be happy unless most people I know admire me""","Affect","Self",NA,NA,NA,NA
+"Dysfunctional attitude scale","""8.If a person asks for help, it is a sign of weakness.""","Cognition","Self",NA,NA,NA,NA
+"Dysfunctional attitude scale","""9.If I do not do as well as other people, it  means I am an inferior human being.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""10.If I fail at my work, then I am a failure as a person.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""11.If you cannot do something well, there is little point in doind it at all.""","Cognition","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale","""12. Making mistakes is fine because I can learn from them.""","Cognition","Self",NA,NA,NA,NA
+"Dysfunctional attitude scale","""13.If someone disagrees with me it probably indicates he does not like me.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""14.If I fail partly, it is as bad as being a complete failure.""","Cognition","Self",NA,NA,NA,NA
+"Dysfunctional attitude scale","""15.If other people know what you are really like, they will think less of you.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""16.I am nothing if a person I love doesn't love me,""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""17. One can get pleasure from an activity regardless of the end result.""","Affect","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale","""18.People  should have a reasonable likelihood of success before undertaking anything.""","Cognition","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale","""19.My value as a person depends greatly on what others think of me.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""20.If I don't set the highest standards for myself, I am likely to end up a second rate person.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""21.If I am to be a worthwhile person, I must be truly outstanding in at least one major respect.""","Self","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale","""22.People who have good ideas are more worthy than those who do not.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""23.I should be upset if I make a mistake.""","Affect","Self",NA,NA,NA,NA
+"Dysfunctional attitude scale","""24.My own opinions of myself are more important than other's opinions of me.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""25.To be a good, moral, worthwhile person r must help everyone who needs it.""","Self","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale","""26.If I ask a question, it makes me look inferior.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""27.It is awful to be disapproved of by people important to you.""","Affect","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""28. If you don't have other people to lean on you are bound to be sad.""","Affect","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""29.I can reach important goals, without slave driving myself.""","Self","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale","""30.It is possible for a person to be scolded and not get upset.""","Affect","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""31.I cannot trust other people because they might be cruel to me.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""32.If others dislike you, you cannot be happy.""","Affect","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""33.It is best to give up your own interests in order to please other people.""","Motivation","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""34.My happiness depends more on other people than it does on me.""","Affect","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""35.I do not need the approval of other people in order to be happy.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""36.If a person avoids problems, the problems tend to go away""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Dysfunctional attitude scale","""37.I can be happy even if I miss out on many of the good things in life.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""38.What other people think about me is very important.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""39.Being isolated from others is bound to lead to unhappiness.""","Affect","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""40. I can Find happiness without being loved by another person.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""41.you can be a happy person, without going out of your way in order to please other people.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""42.I have to impress new acquaintances with my charm, intelligence, or wit or they won't like me.""","Self","Overt Behavior",NA,NA,NA,NA
+"Dysfunctional attitude scale","""43. If I put other people  needs before my own, they should help me -when I want them to do something for me.""","Motivation","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""44.It is shameful for a person to display his weaknesses""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""45.People will like me even if I im not successful.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""46.People who have the marks of success (good looks, fame, wealth) are bound to be happier than people who do not.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""47.I should try to impress other people if I want them to like me""","Self","Overt Behavior",NA,NA,NA,NA
+"Dysfunctional attitude scale","""48.If a person I love does not love me, it means I am unloveable""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""49.I ought to be able to solve my problems quickly and withdut a great deal of effort.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""50.: If a person is in different to me, it means he does not like me.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""51.I should be able to please everybody.""","Self","Overt Behavior",NA,NA,NA,NA
+"Dysfunctional attitude scale","""52.Others can care for me even if they know all my weaknesses.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""53.If people whom I care about do not care for me, it is awful.""","Affect","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""54.Criticism need not upset the person who receives the criticism.""","Affect","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""55.My life is wasted unless,I am a success.""","Self","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale","""56.People shonld prepare for the worst or they will be disappointed.""","Cognition","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""57.I must be a useful productive  creative person or life has no purpose.""","Self","Motivation",NA,NA,NA,NA
+"Dysfunctional attitude scale",""" 58.A person should think less of himself if other people do not accept him.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""59.I do not need other people's approval for me to be happy,""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""60.I can enjoy myself even when others 'do not like me.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""61.My value as a person depends greatly on what others think of me.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""62. If I make a foolish statement, it means am a foolish person""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""63.If a person has to be alone for a long period of time, it follows that he has to feel. lonely.""","Affect","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""64.A person should be able to control whathappens to him.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""65.If a person is not a success, then his life Is meaningless.""","Self","Cognition",NA,NA,NA,NA
+"Dysfunctional attitude scale","""66.A person doesn't need to be well liked in order to be happy.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""67.If someone performs a selfish act, this means he is a selfish person.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""68.I should always have complete control over my feelings.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""69.I should be happy all the time.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""70.If people consider me unattractive it need not upset me.""","Self","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""71.Whenever I take a chance or risk I am only looking for trouble.""","Cognition","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""72.A person cannot change his emotional ,reactions even if he knows they are harmful to him.""","Cognition","Affect",NA,NA,NA,NA
+"Dysfunctional attitude scale","""73. I may be able to influence other people's behavior but I cannot control it.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Dysfunctional attitude scale","""74.People will reject you if they know your weaknesses.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""75. People should be criticized for their mistakes.""","Cognition","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""76. One should look for a practical solution to problems rather than a perfect solution""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Dysfunctional attitude scale","""77.If I do well, it probably is due to chance if I do badly, it is probably my own fault.""","Cognition","Self",NA,NA,NA,NA
+"Dysfunctional attitude scale","""78.The way to get people to like you is to impress them with your personality.""","Self","Overt Behavior",NA,NA,NA,NA
+"Dysfunctional attitude scale","""79.Turning to someone else for advice or help is an admissiciri ofweaknesses.""","Self","Context",NA,NA,NA,NA
+"Dysfunctional attitude scale","""80.A person should do well at everything he undertakes.""","Self","Motivation ",NA,NA,NA,NA
+"Social competence scale parent","""My child accepts things not going his/her way.""","Affect","Self","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child copes well with failure.""","Affect","Self","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child thinks before acting.""","Cognition","Attention","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child resolves problems with friends alone.""","Cognition","Context","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child can calm down when excited.""","Affect","Self","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child does what told to do.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Social competence scale parent","""My child is good at understanding others' feelings.""","Cognition","Affect","Context",NA,NA,NA
+"Social competence scale parent","""My child controls temper when in disagreement.""","affect","Self","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child shares things with others.""","Motivation","Context","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child is helpful to others.""","Motivation","Context","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child listens to others' points of view.""","Attention","Context","Overt Behavior",NA,NA,NA
+"Social competence scale parent","""My child can give suggestions without being bossy.""","Cognition","Self","Overt Behavior ",NA,NA,NA
+"Weight efficacy lifestyle questionnaire",". 1.I can resist eating when I am anxious (nervous).","affect","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","2.I can resist eating when I am depressed (or down).","affect","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","3.I can resist eating when I am angry (or irritable).","affect","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","4.I can resist eating when I have experienced failure.","Cognition","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","5.I can control my eating on the weekends.","Self","Overt Behavior","Context",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","6.I can resist eating when there are many different kinds of food available.","Attention","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","7.I can resist eating even when I am at a party.","Context","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","8.I can resist eating even when high-calorie foods are available.","Attention","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","9.I can resist eating even when I have to say ""no"" to others.","Motivation","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","10.I can resist eating even when I feel it's impolite to refuse a second helping.","Cognition","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","11.I can resist eating even when others are pressuring me to eat.","Context","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","12.I can resist eating even when I think others will be upset if I don't eat.","Cognition","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","13.I can resist eating when I feel physically run down.","affect","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","14.I can resist eating even when I have a headache.","Context","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","15.I can resist eating when I am in pain.","Context","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","16.I can resist eating when I feel uncomfortable.","affect","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","17.I can resist eating when I am watching TV.","Context","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","18.I can resist eating when I am reading.","Context","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","19.I can resist eating just before going to bed.","Context","Self","Overt Behavior",NA,NA,NA
+"Weight efficacy lifestyle questionnaire","20.I can resist eating when I am happy.","affect","Self","Overt Behavior ",NA,NA,NA
+"UCLA loneliness scale","""1.How often do you feel that you are """"in tune"""" with the people around you?""","Cognition","Affect",NA,NA,NA,NA
+"UCLA loneliness scale","2.How often do you feel that you lack companionship?","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","3.How often do you feel that there is no one you can turn to?","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","4.How often do you feel alone?","Affect","Self",NA,NA,NA,NA
+"UCLA loneliness scale","5.How often do you feel part of a group of friends?","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","""6.How often do you feel that you have a lot in common with the people around you?""","Cognition","Affect",NA,NA,NA,NA
+"UCLA loneliness scale","7.How often do you feel that you are no longer close to anyone?","Affect","Self",NA,NA,NA,NA
+"UCLA loneliness scale","""8.How often do you feel that your interests and ideas are not shared by those around you?""","Cognition","Affect",NA,NA,NA,NA
+"UCLA loneliness scale","9.How often do you feel outgoing and friendly?","Affect","Overt Behavior",NA,NA,NA,NA
+"UCLA loneliness scale","10. How often do you feel close to people?","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","11.How often do you feel left out?","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","""12.How often do you feel that your relationships with others are not meaningful?""","Cognition","Affect",NA,NA,NA,NA
+"UCLA loneliness scale","13.How often do you feel that no one really knows you well?","Cognition","Self",NA,NA,NA,NA
+"UCLA loneliness scale","14.How often do you feel isolated from others?","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","""15.How often do you feel you can find companionship when you want it?""","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","""16.How often do you feel that there are people who really understand you?""","Cognition","Affect",NA,NA,NA,NA
+"UCLA loneliness scale","17.How often do you feel shy?","Affect","Self",NA,NA,NA,NA
+"UCLA loneliness scale","""18.How often do you feel that people are around you but not with you?""","Cognition","Affect",NA,NA,NA,NA
+"UCLA loneliness scale","19.How often do you feel that there are people you can talk to?","Affect","Context",NA,NA,NA,NA
+"UCLA loneliness scale","20.How often do you feel that there are people you can turn to?","Affect","Context ",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","1.""My life won't be good until I feel happy.""","Affect","Motivation","Self",NA,NA,NA
+"Avoidance and fusion questionnaire","2.""My thoughts and feelings mess up my life.""","Cognition","Affect","Self",NA,NA,NA
+"Avoidance and fusion questionnaire","3.""The bad things I think about myself must be true.""","Cognition","Self",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","4.""If my heart beats fast there must be something wrong with me.""","Affect","Cognition","Self",NA,NA,NA
+"Avoidance and fusion questionnaire","5.""I stop doing things that are important to me whenever I feel bad.""","Affect","Motivation","Overt Behavior",NA,NA,NA
+"Avoidance and fusion questionnaire","6.""I do worse in school when I have thoughts that make me feel sad.""","Cognition","Affect","Overt Behavior","Context",NA,NA
+"Avoidance and fusion questionnaire","7.""I am afraid of my feelings.""","Affect","Self",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","8.""I can't be a good friend when I feel upset.""","Affect","Self","Overt Behavior","Context",NA,NA
+"Avoidance and fusion questionnaire","9.""While walking, I am aware of the sensations in my body.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","10.""I can describe my feelings well.""","Cognition","Affect",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","11.""I criticize myself for having irrational emotions and thoughts.""","Cognition","Affect","Self",NA,NA,NA
+"Avoidance and fusion questionnaire","12.""I can perceive emotions without reacting to them.""","Attention","Affect",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","13.""I am easily distracted.""","Attention",NA,NA,NA,NA,NA
+"Avoidance and fusion questionnaire","14.""I am aware of the bodily sensations when I take a bath.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","15.""I can easily talk about my thoughts and opinions.""","Cognition","Self",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","16.""I don’t pay attention to my work as I am busy daydreaming most of the time.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","17.""I can watch my feelings without getting attached to them.""","Attention","Affect",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","18.""I correct myself when I think the way I shouldn’t.""","Cognition","Self","Overt Behavior",NA,NA,NA
+"Avoidance and fusion questionnaire","19.""I can feel how eating and drinking affect my body and mind.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","20.""I find it hard to express what I feel.""","Cognition","Affect",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","21.""I am easily distracted.""","Attention",NA,NA,NA,NA,NA
+"Avoidance and fusion questionnaire","22.""I am aware that some of my thoughts are not normal, and I know that I shouldn’t feel that way.""","Cognition","Self",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","23.""I can feel pure sensations like the wind or the sunlight touching my skin.""","Attention",NA,NA,NA,NA,NA
+"Avoidance and fusion questionnaire","24.""Sometimes I cannot find words to express what I feel.""","Cognition","Affect",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","25.""I judge my thoughts as good or bad.""","Cognition","Self",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","26.""I find it difficult to sustain focus.""","Attention",NA,NA,NA,NA,NA
+"Avoidance and fusion questionnaire","27.""I step back when I catch myself thinking something negative or distressing.""","Cognition","Self","Overt Behavior",NA,NA,NA
+"Avoidance and fusion questionnaire","28.""I can pay attention to the clock ticking, birds chirping, and cars passing.""","Attention",NA,NA,NA,NA,NA
+"Avoidance and fusion questionnaire","29.""I think before reacting under stressful situations.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","30.""I find it difficult to describe my bodily sensations in words.""","Cognition","Affect",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","31.""I sometimes feel that I am not in complete awareness of myself.""","Attention","Self",NA,NA,NA,NA
+"Avoidance and fusion questionnaire","32.""I can calm down soon after experiencing distressing thoughts and impulses.""","Cognition","Affect","Overt Behavior ",NA,NA,NA
+"Acceptance and action questionnaire","1.""My painful experiences and memories make it difficult for me to live a life that I would value.""","Cognition","Affect","Self",NA,NA,NA
+"Acceptance and action questionnaire","2.""I'm afraid of my feelings.""","Affect","Attention",NA,NA,NA,NA
+"Acceptance and action questionnaire","3.""I worry about not being able to control my worries and feelings.""","Cognition","Affect","Attention",NA,NA,NA
+"Acceptance and action questionnaire","4.""My painful memories prevent me from having a fulfilling life.""","Cognition","Affect","Self",NA,NA,NA
+"Acceptance and action questionnaire","5.""Emotions cause problems in my life.""","Affect","Cognition",NA,NA,NA,NA
+"Acceptance and action questionnaire","6.""It seems like most people are handing their lives better than I am.""","Cognition","Self",NA,NA,NA,NA
+"Acceptance and action questionnaire","7.""Worries get in the way of my success.""","Cognition","Affect","Motivation",NA,NA,NA
+"Anxiety sensitivity index","""1.When my stomach is upset, I worry that I might be seriously ill.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""2.When I notice my heart skipping a beat, I worry that there is something seriously wrong with me.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""3. When I feel pain in my chest, I worry that I’m going to have a heart attack.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""4.When my chest feels tight, I get scared that I won’t be able to breathe properly.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""5.When my throat feels tight, I worry that I could choke to death.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""6.It scares me when my heart beats rapidly.""","Affect","Attention",NA,NA,NA,NA
+"Anxiety sensitivity index","""7.When my thoughts seem to speed up, I worry that I might be going crazy.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""8.When my mind goes blank, I worry there is something terribly wrong with me.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""9.When I feel “spacey” or spaced out I worry that I may be mentally ill.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""10.When I have trouble thinking clearly, I worry that there is something wrong with me.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""11. When I cannot keep my mind on a task, I worry that I might be going crazy.""","Affect","Cognition","Attention",NA,NA,NA
+"Anxiety sensitivity index","""12.It scares me when I am unable to keep my mind on a task.""","Affect","Attention",NA,NA,NA,NA
+"Anxiety sensitivity index","""13. I worry that other people will notice my anxiety.""","Affect","Cognition","Self",NA,NA,NA
+"Anxiety sensitivity index","""14. When I tremble in the presence of others, I fear what people might think of me.""","Affect","Cognition","Self","Overt Behavior",NA,NA
+"Anxiety sensitivity index","""15.It scares me when I blush in front of people.""","Affect","Self","Overt Behavior",NA,NA,NA
+"Anxiety sensitivity index","""16.When I begin to sweat in a social situation, I fear people will think negatively of me.""","Affect","Cognition","Self","Overt Behavior","Context",NA
+"Anxiety sensitivity index","""17. I think it would be horrible for me to faint in public.""","Cognition","Self","Context",NA,NA,NA
+"Anxiety sensitivity index","""18. It is important for me not to appear nervous.""","Motivation","Self","Overt Behavior ",NA,NA,NA
+"Believability of anxious thoughts","""1.Unusual body sensations are scary and something I need to act on to reduce or get rid of before I can do anything else.""","Affect","Attention","Cognition",NA,NA,NA
+"Believability of anxious thoughts","2. My anxious thoughts and feelings are not normal.","Cognition","Affect",NA,NA,NA,NA
+"Believability of anxious thoughts","""3.Scanning my body for signs and symptoms of anxiety is important to keep me safe.""","Attention","Cognition",NA,NA,NA,NA
+"Believability of anxious thoughts","""4. When I am very anxious or afraid there is a good chance that I might be dying.""","Cognition","Affect",NA,NA,NA,NA
+"Believability of anxious thoughts","5.I could lose control of myself when I feel anxious or afraid.","Affect","Self",NA,NA,NA,NA
+"Believability of anxious thoughts","6. I must stay in control of my Affects.","Affect","Self",NA,NA,NA,NA
+"Believability of anxious thoughts","7.I must do something about my anxiety or fear when it shows up.","Affect","Motivation",NA,NA,NA,NA
+"Believability of anxious thoughts","""8. When unpleasant thoughts occur, I must push them out of my mind.""","Cognition","Affect",NA,NA,NA,NA
+"Believability of anxious thoughts","""9.When I feel bad, I must fight the feeling in order to make it go away.""","Affect","Motivation",NA,NA,NA,NA
+"Believability of anxious thoughts","10. My happiness and success depends on how good I feel.","Affect","Cognition",NA,NA,NA,NA
+"Believability of anxious thoughts","""11.I need to get a handle on my anxiety and fear for me to have the life I want.""","Affect","Motivation",NA,NA,NA,NA
+"Believability of anxious thoughts","12.Appearing nervous is not good and causes me to suffer.","Affect","Self",NA,NA,NA,NA
+"Believability of anxious thoughts","""13.I can’t really do the things that I want to do when I have anxiety and fear.""","Affect","Motivation",NA,NA,NA,NA
+"Believability of anxious thoughts","""14.If I were like other people, I would be able to get a grip on my anxious thoughts and feelings.""","Self","Cognition",NA,NA,NA,NA
+"Believability of anxious thoughts","15. My anxious thoughts and feelings are a problem.","Affect","Cognition",NA,NA,NA,NA
+"Believability of anxious thoughts","""16. I am sure to be embarrassed and make a fool of myself when other people notice how nervous and shaky I feel.""","Affect","Self","Context ",NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going to throw up.""","Affect","Cognition",NA,NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going to pass out.""","Affect","Cognition",NA,NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I must have a brain tumor.""","Cognition","Affect",NA,NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I will have a heart attack.""","Cognition","Affect",NA,NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I will choke to death.""","Affect","Cognition",NA,NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going to act foolish.""","Cognition","Affect","Self",NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going blind.""","Cognition","Affect",NA,NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I will not be able to control myself.""","Cognition","Affect","Self",NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I will hurt someone.""","Cognition","Affect","Overt Behavior",NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going to have a stroke.""","Cognition","Affect",NA,NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going to go crazy.""","Cognition","Affect","Self",NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going to scream.""","Affect","Cognition","Overt Behavior",NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I am going to babble or talk funny.""","Cognition","Affect","Overt Behavior",NA,NA,NA
+"Bodily sensations questionnaire","""When I am in a feared situation, I am worried I will be paralyzed by fear.""","Affect","Cognition","Overt Behavior ",NA,NA,NA
+"Illness perception questionnaire","1.""How much does your illness affect your life?""","Affect","Context",NA,NA,NA,NA
+"Illness perception questionnaire","2.""How long do you think your illness will continue?""","Cognition","Attention",NA,NA,NA,NA
+"Illness perception questionnaire","3.""How much control do you feel you have over your illness?""","Cognition","Self","Motivation",NA,NA,NA
+"Illness perception questionnaire","4.""How much do you think your treatment can help your illness?""","Cognition","Motivation",NA,NA,NA,NA
+"Illness perception questionnaire","5.""How much do you experience symptoms from your illness""","Affect","Attention",NA,NA,NA,NA
+"Illness perception questionnaire","6.""How concerned are you about your illness?""","Affect","Cognition",NA,NA,NA,NA
+"Illness perception questionnaire","7.""How well do you feel you understand your illness?""","Cognition","Self",NA,NA,NA,NA
+"Illness perception questionnaire","8.""How much does your illness affect you emotionally?""","Affect","Self ",NA,NA,NA,NA
+"Childhood post traumatic cognitions inventory","""1. My reactions since the frightening event mean I have changed for the worse.""","Self","Cognition",NA,NA,NA,NA
+"Childhood post traumatic cognitions inventory","""2. My reactions since the frightening event mean something is seriously wrong with me.""","Self","Cognition","Affect",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""3. My reactions since the frightening event mean something is seriously wrong with me.""","Self","Cognition","Affect",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""4. My reactions since the frightening event mean I will never get over it.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""5. I used to be a happy person but now I am always sad.""","Self","Affect",NA,NA,NA,NA
+"Childhood post traumatic cognitions inventory","""6. I will never be able to have normal feelings again.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""7. I’m scared that I’ll get so angry that I’ll break something or hurt someone.""","Affect","Overt Behavior","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""8. My life has been destroyed by the frightening event.""","Self","Cognition","Context",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""9. I feel like I am a different person since the frightening event.""","Self","Affect","Context",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""10. My reactions since the frightening event show that I must be going crazy.""","Self","Cognition","Affect",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""11. Nothing good can happen to me anymore.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""12. Something terrible will happen if I do not try to control my thoughts about the frightening event.""","Cognition","Attention","Affect",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""13. The frightening event has changed me forever.""","Self","Cognition","Context",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""14. Anyone could hurt me.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""15. Everyone lets me down.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""16. I am a coward.""","Self","Cognition",NA,NA,NA,NA
+"Childhood post traumatic cognitions inventory","""17. I don’t trust people.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""18. I am no good.""","Self","Cognition",NA,NA,NA,NA
+"Childhood post traumatic cognitions inventory","""19. Small things upset me.""","Affect","Attention","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""20. I can’t cope when things get tough.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""21. I can’t stop bad things from happening to me.""","Cognition","Affect","Self",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""22. I have to watch out for danger all the time.""","Attention","Cognition","Affect",NA,NA,NA
+"Childhood post traumatic cognitions inventory","""23. Bad things always happen.""","Cognition","Affect",NA,NA,NA,NA
+"Childhood post traumatic cognitions inventory","""24. Life is not fair.""","Cognition","Affect",NA,NA,NA,NA
+"Childhood post traumatic cognitions inventory","""25. I have to be really careful because something bad could happen.""","Cognition","Affect","Attention ",NA,NA,NA
+"Engaged living scale","1. ""I have values that give my life more meaning.""","Motivation","Self",NA,NA,NA,NA
+"Engaged living scale","2. ""I know what motivates me in life.""","Cognition","Motivation",NA,NA,NA,NA
+"Engaged living scale","3. ""I believe that I’ve found important values to live according to.""","Cognition","Motivation","Self",NA,NA,NA
+"Engaged living scale","4. ""I know exactly what I want to do with my life.""","Cognition","Motivation",NA,NA,NA,NA
+"Engaged living scale","5. ""I make choices based on my values, even if it is stressful.""","Motivation","Overt Behavior","Affect",NA,NA,NA
+"Engaged living scale","6. ""I know how I want to live my life.""","Cognition","Motivation",NA,NA,NA,NA
+"Engaged living scale","7. ""I know what I want to do with my life.""","Cognition","Motivation",NA,NA,NA,NA
+"Engaged living scale","8. ""I know what I want to do with my life.""","Cognition","Motivation",NA,NA,NA,NA
+"Engaged living scale","9. ""I believe that how I behave fits in with my personal wants and desires.""","Cognition","Motivation","Overt Behavior",NA,NA,NA
+"Engaged living scale","10. ""My emotions don’t hold me back from doing what’s important to me.""","Affect","Motivation",NA,NA,NA,NA
+"Engaged living scale","11. ""I live the way I always intended to live.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Engaged living scale","12. ""I am satisfied with how I live my life.""","Cognition","Affect",NA,NA,NA,NA
+"Engaged living scale","13. ""Nothing can stop me from doing something that’s important to me.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Engaged living scale","14. ""I believe that I am living life to the full right now.""","Cognition","Affect",NA,NA,NA,NA
+"Engaged living scale","15. ""I make time for the things that I consider important.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Engaged living scale","16. ""I feel that I am living a full life.""","Affect","Cognition",NA,NA,NA,NA
+"Exercise goal setting scale","1.I often set exercise goals.","Motivation","Overt Behavior",NA,NA,NA,NA
+"Exercise goal setting scale","2.I usually have more than one major exercise goal.","Motivation",NA,NA,NA,NA,NA
+"Exercise goal setting scale","3.I usually set dates for achieving my exercise goals.","Motivation","Overt Behavior",NA,NA,NA,NA
+"Exercise goal setting scale","4.My exercise goals help to increase my motivation for doing exercise.","Motivation","Cognition",NA,NA,NA,NA
+"Exercise goal setting scale","5.I tend to break more difficult exercise goals down into a series of smaller goals","Cognition","Motivation",NA,NA,NA,NA
+"Exercise goal setting scale","6.I usually keep track of my progress in meeting my goals.","Attention","Overt Behavior",NA,NA,NA,NA
+"Exercise goal setting scale","7.I have developed a series of steps for reaching my exercise goals.","Cognition","Overt Behavior",NA,NA,NA,NA
+"Exercise goal setting scale","8. I usually achieve the exercise goals I set for myself.","Self","Overt Behavior",NA,NA,NA,NA
+"Exercise goal setting scale","9. If I do not reach an exercise goal, I analyze what went wrong.","Cognition","Self",NA,NA,NA,NA
+"Exercise goal setting scale","10. I make my exercise goals public by telling other people about them","Overt Behavior","Context",NA,NA,NA,NA
+"Exercise goal setting scale","11.I never seem to have enough time to exercise.","Context","Self",NA,NA,NA,NA
+"Exercise goal setting scale","12.Exercise is generally not a high priority when I plan my schedule.","Motivation","Context",NA,NA,NA,NA
+"Exercise goal setting scale","13.Finding time for exercise is difficult for me","Context","Self",NA,NA,NA,NA
+"Exercise goal setting scale","14.I schedule all events in my life around my exercise routine.","Overt Behavior","Context",NA,NA,NA,NA
+"Exercise goal setting scale","15.I schedule my exercise at specific times each week.","Overt Behavior","Context",NA,NA,NA,NA
+"Exercise goal setting scale","16. I plan my weekly exercise schedule.","Overt Behavior","Context",NA,NA,NA,NA
+"Exercise goal setting scale","17.when i am busy i don't do much exercise","Context","Self",NA,NA,NA,NA
+"Exercise goal setting scale","18.Everything is scheduled around my exercise routine—both classes and work.","Overt Behavior","Context",NA,NA,NA,NA
+"Exercise goal setting scale","19.I try to exercise at the same time and same day each week to keep a routine going.","Overt Behavior","Motivation",NA,NA,NA,NA
+"Exercise goal setting scale","20.I write my planned activity sessions in an appointment book or calendar.","Overt Behavior","Attention ",NA,NA,NA,NA
+"Experiences/decentering scale","1. ""I am better able to accept myself as I am.""","Self",NA,NA,NA,NA,NA
+"Experiences/decentering scale","2. ""I can observe unpleasant feelings without being drawn into them.""","Attention","Affect",NA,NA,NA,NA
+"Experiences/decentering scale","3. ""I notice that I don’t take difficulties so personally.""","Self","Cognition",NA,NA,NA,NA
+"Experiences/decentering scale","4. ""I can treat myself kindly.""","Self",NA,NA,NA,NA,NA
+"Experiences/decentering scale","5. ""I can separate myself from my thoughts and feelings.""","Self","Attention",NA,NA,NA,NA
+"Experiences/decentering scale","6. ""I have the sense that I am fully aware of what is going on around me and inside me.""","Attention",NA,NA,NA,NA,NA
+"Experiences/decentering scale","7. ""I can slow my thinking at times of stress.""","Attention","Affect",NA,NA,NA,NA
+"Experiences/decentering scale","8. ""I am not so easily carried away by my thoughts and feelings.""","Self","Attention",NA,NA,NA,NA
+"Experiences/decentering scale","9. ""I can actually see that I am not my thoughts.""","Self","Cognition",NA,NA,NA,NA
+"Experiences/decentering scale","10. ""I am consciously aware of a sense of my body as a whole.""","Attention","Self",NA,NA,NA,NA
+"Experiences/decentering scale","11. ""I am kinder to myself when things go wrong.""","Self","Affect",NA,NA,NA,NA
+"Experiences/decentering scale","12. ""I can take time to respond to difficulties.""","Attention","Motivation",NA,NA,NA,NA
+"Experiences/decentering scale","13. ""I view things from a wider perspective.""","Cognition",NA,NA,NA,NA,NA
+"Experiences/decentering scale","14. ""I think over and over again about what others have said to me.""","Cognition","Attention",NA,NA,NA,NA
+"Experiences/decentering scale","15. ""I analyze why things turn out the way they do.""","Cognition",NA,NA,NA,NA,NA
+"Experiences/decentering scale","16. ""I think about the ways in which I am different from other people.""","Self","Cognition",NA,NA,NA,NA
+"Experiences/decentering scale","17. ""I notice all sorts of little things and details in the world around me.""","Attention",NA,NA,NA,NA,NA
+"Experiences/decentering scale","18. ""I think about what will happen in the future.""","Cognition","Motivation",NA,NA,NA,NA
+"Experiences/decentering scale","19. ""I wonder what kind of person I really am.""","Self","Cognition",NA,NA,NA,NA
+"Experiences/decentering scale","20. ""I remind myself that thoughts aren’t facts.""","Cognition","Self",NA,NA,NA,NA
+"Food acceptance and awareness scale","""1.I continue to eat a healthy diet, even when I have the desire to overeat or make poor eating choices.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Food acceptance and awareness scale","""2.It's OK to experience cravings and urges to overeat, because I don't have to listen to them.""","Cognition","Affect",NA,NA,NA,NA
+"Food acceptance and awareness scale","""3.It's necessary for me to control my food urges in order to control my eating.""","Cognition","Motivation",NA,NA,NA,NA
+"Food acceptance and awareness scale","""4. I don't have to overeat, even when I feel like I want to overeat.""","Cognition","Affect",NA,NA,NA,NA
+"Food acceptance and awareness scale","""5.Despite my cravings for unhealthy foods, I continue to eat healthily""","Overt Behavior","Affect",NA,NA,NA,NA
+"Food acceptance and awareness scale","""6.Even if I have the desire to eat something unhealthy, I can still eat healthily.""","Motivation","Cognition",NA,NA,NA,NA
+"Food acceptance and awareness scale","""7. I need to concentrate on getting rid of my urges to eat unhealthily.""","Attention","Motivation",NA,NA,NA,NA
+"Food acceptance and awareness scale","""8.Controlling my urges to eat unhealthily is just as important as controlling my eating.""","Cognition","Motivation",NA,NA,NA,NA
+"Food acceptance and awareness scale","""9.My thoughts and feelings about food must change before I can make changes in my eating.""","Cognition","Self",NA,NA,NA,NA
+"Food acceptance and awareness scale","""10. Before I can make any important dietary changes, I have to get some control over my food urges.""","Motivation","Cognition ",NA,NA,NA,NA
+"Medical outcomes social support study","""About how many close friends and close relatives do you have.""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to help you if you were confined to bed?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone you can count on to listen to you when you need to talk?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to give you good advice about a crisis?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to take you to the doctor if you needed it?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to have a good time with?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to give you information to help you understand a situation?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to confide in or talk to about yourself or your problems?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone who hugs you?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to get together with for relaxation?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to prepare your meals if you were unable to do it yourself?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone whose advice you really want?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to do things with to help you get your mind off things?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to help with daily chores if you were sick?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to share your most private worries and fears with?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to turn to for suggestions about how to deal with a personal problem?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to do something enjoyable with?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone who understands your problems?""","Context",NA,NA,NA,NA,NA
+"Medical outcomes social support study","""How often do you have someone to love and make you feel wanted?""","Context","Affect",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""1.I could be experiencing some emotion and not be conscious of it until some time later.""","Affect","Attention","Self",NA,NA,NA
+"Mindfulness attention and awareness scale","""2.I break or spill things because of carelessness, not paying attention, or thinking of something else.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""3.I find it difficult to stay focused on what’s happening in the present.""","Attention",NA,NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""4.I tend to walk quickly to get where I’m going without paying attention to what I experience along the way.""","Attention","Motivation","Overt Behavior",NA,NA,NA
+"Mindfulness attention and awareness scale","""5.I tend not to notice feelings of physical tension or discomfort until they really grab my attention.""","Affect","Attention",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""6.I forget a person’s name almost as soon as I’ve been told it for the first time.""","Attention",NA,NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""7.It seems I am “running on automatic,” without much awareness of what I’m doing.""","Attention","Self",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""8.I rush through activities without being really attentive to them.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""9.I get so focused on the goal I want to achieve that I lose touch with what I’m doing right now to get there.""","Attention","Motivation",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""10.I do jobs or tasks automatically, without being aware of what I'm doing.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""11.I find myself listening to someone with one ear, doing something else at the same time.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""12.I drive places on ‘automatic pilot’ and then wonder why I went there.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""13.I find myself preoccupied with the future or the past.""","Attention","Cognition",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""14.I find myself doing things without paying attention.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Mindfulness attention and awareness scale","""15.I snack without being aware that I’m eating.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Pain catastrophizing scale","""1.I worry all the time about whether the pain will end.""","Affect","Cognition",NA,NA,NA,NA
+"Pain catastrophizing scale","""2.I feel I can’t go on.""","Affect","Motivation",NA,NA,NA,NA
+"Pain catastrophizing scale","""3.It’s terrible and I think it’s never going to get any better.""","Affect","Cognition",NA,NA,NA,NA
+"Pain catastrophizing scale","""4.It’s awful and I feel that it overwhelms me.""","Affect","Self",NA,NA,NA,NA
+"Pain catastrophizing scale","""5.I feel I can’t stand it anymore.""","Affect","Motivation",NA,NA,NA,NA
+"Pain catastrophizing scale","""6.I become afraid that the pain will get worse.""","Affect","Cognition",NA,NA,NA,NA
+"Pain catastrophizing scale","""7.I keep thinking of other painful events.""","Cognition","Affect",NA,NA,NA,NA
+"Pain catastrophizing scale","""8.I anxiously want the pain to go away.""","Affect","Motivation",NA,NA,NA,NA
+"Pain catastrophizing scale","""9.I can’t seem to keep it out of my mind.""","Cognition","Attention",NA,NA,NA,NA
+"Pain catastrophizing scale","""10.I keep thinking about how much it hurts.""","Cognition","Affect",NA,NA,NA,NA
+"Pain catastrophizing scale","""11.I keep thinking about how badly I want the pain to stop.""","Cognition","Motivation",NA,NA,NA,NA
+"Pain catastrophizing scale","""12.There’s nothing I can do to reduce the intensity of the pain.""","Cognition","Affect",NA,NA,NA,NA
+"Pain catastrophizing scale","""13.I wonder whether something serious may happen.""","Cognition","Affect . ",NA,NA,NA,NA
+"Parenting scale","""1.When my child misbehaves...I do something right away.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Parenting scale","""2.Before I do something about a problem... I give my child several reminders and warnings.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Parenting scale","""3.When I’m upset or under stress... I am picky and on my child’s back.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","4.""When I tell my child NOT to do something... I say very little.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Parenting scale","""5.When my child pesters me...I can ignore the pestering.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""6.When my child misbehaves... I usually get into a long argument with my child.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Parenting scale","""7. I threaten to do things that... I’m sure I can carry out.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""8.I am the kind of parent that... Sets limits on what my child is allowed to do.""","Self","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""9.When my child misbehaves... I give my child a long lecture.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Parenting scale","""10.When my child misbehaves... I raise my voice or yell.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""11. If saying no doesn’t work right away... I take some other kind of action.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""12. When I want my child to stop doing something... I firmly tell my child to stop.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Parenting scale","""13.When my child is out of sight... I often don’t know what my child is doing.""","Attention","Cognition",NA,NA,NA,NA
+"Parenting scale","""14.After there’s been a problem with my child... I often hold a grudge.""","Affect","Cognition",NA,NA,NA,NA
+"Parenting scale","""15.When we’re not at home... I handle my child the way I do at home.""","Context","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""16.When my child does something I don’t like... I do something about it every time it happens""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""17. When there is a problem with my child... Things build up and I do things I don’t mean to do.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""18.When my child misbehaves I spank, slap, grab, or hit my child...Never or rarely.""","Overt Behavior","Self",NA,NA,NA,NA
+"Parenting scale","""19.When my child doesn’t do what I ask... I often let it go or end up doing it myself.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""20.When I give a fair threat or warning... I often don’t carry it out.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""21.If saying “no” doesn’t work... I take some other kind of action.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""22.When my child misbehaves... I handle it without getting upset.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""23.When my child misbehaves... I make my child tell me why he/she did it.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""24.If my child misbehaves and then acts sorry... I handle the problem like I usually would.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""25.When my child misbehaves... I rarely use bad language or curse.""","Affect","Self",NA,NA,NA,NA
+"Parenting scale","""26.When I say my child can’t do something... I let my child do it anyway.""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""27.When I have to handle a problem... I tell my child I’m sorry about it.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""28.When my child does something I don’t like, I insult my child, say mean things, or call my child namesNever or rarely.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""29.If my child talks back or complains when I handle a problem...I ignore the complaining and stick to what I said.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Parenting scale","""30. If my child gets upset when I say “no”... I back down and give in to my child.""","Affect","Overt Behavior ",NA,NA,NA,NA
+"Penn state worry questionnaire","""1.If I don’t have enough time to do everything, I don’t worry about it.""","Attention","Cognition",NA,NA,NA,NA
+"Penn state worry questionnaire","2.My worries overwhelm me.","Affect","Attention",NA,NA,NA,NA
+"Penn state worry questionnaire","3.I don’t tend to worry about things.","Cognition","Attention",NA,NA,NA,NA
+"Penn state worry questionnaire","4.Many situations make me worry.","Attention","Cognition",NA,NA,NA,NA
+"Penn state worry questionnaire","5. I know I shouldn’t worry about things, but I just can’t help it.","Cognition","Affect","Attention",NA,NA,NA
+"Penn state worry questionnaire","6.When I’m under pressure, I worry a lot.","Attention","Affect","Context",NA,NA,NA
+"Penn state worry questionnaire","7.I am always worrying about something.","Attention","Cognition",NA,NA,NA,NA
+"Penn state worry questionnaire","8. I find it easy to dismiss worrisome thoughts.","Cognition","Attention",NA,NA,NA,NA
+"Penn state worry questionnaire","""9. As soon as I finish one task, I start to worry about everything else I have to do.""","Attention","Cognition","Motivation",NA,NA,NA
+"Penn state worry questionnaire","10.I never worry about anything.","Cognition","Attention",NA,NA,NA,NA
+"Penn state worry questionnaire","""11.When there is nothing more I can do about a concern, I don’t worry about it anymore.""","Cognition","Attention",NA,NA,NA,NA
+"Penn state worry questionnaire","12. I’ve been a worrier all my life.","Self","Attention","Cognition",NA,NA,NA
+"Penn state worry questionnaire","13.I notice that I have been worrying about things.","Attention","Cognition",NA,NA,NA,NA
+"Penn state worry questionnaire","14.Once I start worrying, I can’t stop.","Attention","Cognition",NA,NA,NA,NA
+"Penn state worry questionnaire","15.I worry all the time.","Attention","Cognition",NA,NA,NA,NA
+"Penn state worry questionnaire","16.I worry about projects until they are all done.","Attention","Cognition","Motivation ",NA,NA,NA
+"Perceived stress scale","1. ""how often have you been upset because of something that happened unexpectedly?""","Affect","Attention",NA,NA,NA,NA
+"Perceived stress scale","2. ""how often have you felt that you were unable to control the important things in your life?""","Cognition","Self",NA,NA,NA,NA
+"Perceived stress scale","3. ""how often have you felt nervous and “stressed”?""","Affect","Attention",NA,NA,NA,NA
+"Perceived stress scale","4. ""how often have you felt confident about your ability to handle your personal problems?""","Cognition","Self","Motivation",NA,NA,NA
+"Perceived stress scale","5. ""how often have you felt that things were going your way?""","Cognition","Self",NA,NA,NA,NA
+"Perceived stress scale","6. ""how often have you found that you could not cope with all the things that you had to do?""","Cognition","Self","Overt Behavior",NA,NA,NA
+"Perceived stress scale","7. ""how often have you been able to control irritations in your life?""","Cognition","Self","Overt Behavior",NA,NA,NA
+"Perceived stress scale","8. ""how often have you felt that you were on top of things?""","Cognition","Self","Motivation",NA,NA,NA
+"Perceived stress scale","9. ""how often have you been angered because of things that were outside of your control?""","Affect","Attention","Cognition",NA,NA,NA
+"Perceived stress scale","10. ""how often have you felt difficulties were piling up so high that you could not overcome them?""","Cognition","Self","Overt Behavior",NA,NA,NA
+"Protective behavioral strategies survey","""1.When using alcohol or partying, I determine not to exceed a set number of drinks.""","Cognition","Motivation","Overt Behavior",NA,NA,NA
+"Protective behavioral strategies survey","""2.When using alcohol or partying, I alternate alcoholic and nonalcoholic drinks.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Protective behavioral strategies survey","""3.When using alcohol or partying, I have a friend let me know when I've had enough.""","Overt Behavior","Context",NA,NA,NA,NA
+"Protective behavioral strategies survey","""4.When using alcohol or partying, I leave the bar/party at a predetermined time.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Protective behavioral strategies survey","""5.When using alcohol or partying, I stop drinking at a predetermined time.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Protective behavioral strategies survey","""6.When using alcohol or partying, I drink water while drinking alcohol.""","Overt Behavior",NA,NA,NA,NA,NA
+"Protective behavioral strategies survey","""7.When using alcohol or partying, I put extra ice in my drink.""","Overt Behavior",NA,NA,NA,NA,NA
+"Protective behavioral strategies survey","""8.When using alcohol or partying, I avoid drinking games.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Protective behavioral strategies survey","""9.When using alcohol or partying, I drink shots of liquor (reverse scored).""","Overt Behavior",NA,NA,NA,NA,NA
+"Protective behavioral strategies survey","""10.When using alcohol or partying, I avoid mixing different types of alcohol.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Protective behavioral strategies survey","""11.When using alcohol or partying, I drink slowly, rather than gulp or chug.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Protective behavioral strategies survey","""12.When using alcohol or partying, I avoid trying to ""keep up"" or out-drink others.""","Overt Behavior","Cognition","Self",NA,NA,NA
+"Protective behavioral strategies survey","""13.When using alcohol or partying, I use a designated driver.""","Overt Behavior","Context",NA,NA,NA,NA
+"Protective behavioral strategies survey","""14.When using alcohol or partying, I make sure that I go home with a friend.""","Overt Behavior","Context",NA,NA,NA,NA
+"Protective behavioral strategies survey","""15.When using alcohol or partying, I know where my drink has been at all times.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Caregiving self-efficacy","""Can ask a friend/family member to stay with your cognitively impaired family member for a day when you need to see the doctor yourself?""","Overt Behavior","Context","Motivation",NA,NA,NA
+"Caregiving self-efficacy","""Can ask a friend/family member to stay with your cognitively impaired family member for a day when you have errands to be done?""","Overt Behavior","Context","Motivation",NA,NA,NA
+"Caregiving self-efficacy","""Can ask a friend or family member to do errands for you?""","Overt Behavior","Context","Motivation",NA,NA,NA
+"Caregiving self-efficacy","""Can ask a friend/family member to stay with your cognitively impaired family member for a day when you feel the need for a break?""","Overt Behavior","Context","Motivation",NA,NA,NA
+"Caregiving self-efficacy","""Can ask a friend/family member to stay with your cognitively impaired family member for a week when you need the time for yourself?""","Overt Behavior","Context","Motivation",NA,NA,NA
+"Caregiving self-efficacy","""When your cognitively impaired family member forgets your daily routine and asks when lunch is right after you’ve eaten, can you answer him/her without raising your voice?""","Overt Behavior","Context","Affect","Cognition",NA,NA
+"Caregiving self-efficacy","""When you get angry because your cognitively impaired family member repeats the same question over and over, can you say things to yourself that calm you down?""","Affect","Cognition","Overt Behavior",NA,NA,NA
+"Caregiving self-efficacy","""When your cognitively impaired family member complains to you about how you’re treating him/her, can you respond without arguing back?""","Affect","Overt Behavior","Context",NA,NA,NA
+"Caregiving self-efficacy","""When your cognitively impaired family member asks you 4 times in the first one hour after lunch when lunch is, can you answer him/her without raising your voice?""","Affect","Cognition","Overt Behavior","Context",NA,NA
+"Caregiving self-efficacy","""When your cognitively impaired family member interrupts you for the fourth time while you’re making dinner, can you respond without raising your voice?""","Affect","Cognition","Overt Behavior","Context",NA,NA
+"Caregiving self-efficacy","""Thinking about unpleasant aspects of taking care of your cognitively impaired family member?""","Cognition","Affect","Context",NA,NA,NA
+"Caregiving self-efficacy","""Thinking how unfair it is that you have to put up with this situation (taking care of your cognitively impaired family member)?""","Cognition","Affect","Context",NA,NA,NA
+"Caregiving self-efficacy","""Thinking about what a good life you had before your cognitively impaired family member’s illness and how much you’ve lost?""","Cognition","Affect","Self","Context",NA,NA
+"Caregiving self-efficacy","""Thinking about what you are missing or giving up because of your cognitively impaired family member?""","Cognition","Affect","Self","Context",NA,NA
+"Caregiving self-efficacy","""Worrying about future problems that might come up with your cognitively impaired family member?""","Cognition","Affect","Attention","Context ",NA,NA
+"Rosenberg self-esteem","1.""On the whole, I am satisfied with myself.""","Self","Affect",NA,NA,NA,NA
+"Rosenberg self-esteem","2.""At times I think I am no good at all.""","Cognition","Self",NA,NA,NA,NA
+"Rosenberg self-esteem","3.""I feel that I have a number of good qualities.""","Self","Affect",NA,NA,NA,NA
+"Rosenberg self-esteem","4.""I am able to do things as well as most other people.""","Self","Cognition",NA,NA,NA,NA
+"Rosenberg self-esteem","5.""I feel I do not have much to be proud of.""","Self","Affect",NA,NA,NA,NA
+"Rosenberg self-esteem","6.""I certainly feel useless at times.""","Affect","Self",NA,NA,NA,NA
+"Rosenberg self-esteem","7.""I feel that I'm a person of worth, at least on an equal plane with others.""","Self","Affect",NA,NA,NA,NA
+"Rosenberg self-esteem","8.""I wish I could have more respect for myself.""","Motivation","Self",NA,NA,NA,NA
+"Rosenberg self-esteem","9.""All in all, I am inclined to feel that I am a failure.""","Affect","Self",NA,NA,NA,NA
+"Rosenberg self-esteem","10.""I take a positive attitude toward myself.""","Self","Cognition ",NA,NA,NA,NA
+"Rumination reflection scale",".""1.My attention is often focused on aspects of myself I wish I'd stop thinking about.""","Attention","Self",NA,NA,NA,NA
+"Rumination reflection scale","""2.I always seem to be """"re-hashing"""" in my mind recent things I've said or done.""","Cognition","Attention",NA,NA,NA,NA
+"Rumination reflection scale","3.Sometimes it is hard for me to shut off thoughts about myself.","Attention","Self",NA,NA,NA,NA
+"Rumination reflection scale","""4.Long after an argument or disagreement is over with, my thoughts keep going back to what happened.""","Cognition","Attention",NA,NA,NA,NA
+"Rumination reflection scale","""5.I tend to """"ruminate"""" or dwell over things that happen to me for a really long time afterward.""","Attention","Cognition",NA,NA,NA,NA
+"Rumination reflection scale","6.I don't waste time re-thinking things that are over and done with.","Cognition","Attention",NA,NA,NA,NA
+"Rumination reflection scale","""7.Often I'm playing back over in my mind how I acted in a past situation. ""","Cognition","Attention","Self",NA,NA,NA
+"Rumination reflection scale","8.I often find myself re-evaluating something I've done.","Cognition","Self",NA,NA,NA,NA
+"Rumination reflection scale","9.I never ruminate or dwell on myself for very long.","Attention","Self",NA,NA,NA,NA
+"Rumination reflection scale","10.It is easy for me to put unwanted thoughts out of my mind.","Attention","Cognition",NA,NA,NA,NA
+"Rumination reflection scale","""11.I often reflect on episodes in my life that I should no longer concern myself with. ""","Attention","Cognition","Self",NA,NA,NA
+"Rumination reflection scale","""12.I spend a great deal of time thinking back over my embarrassing or disappointing moments.""","Cognition","Self","Affect",NA,NA,NA
+"Rumination reflection scale","""13.Philosophical or abstract thinking doesn't appeal to me that much.""","Cognition",NA,NA,NA,NA,NA
+"Rumination reflection scale","14.I'm not really a meditative type of person.","Self","Attention",NA,NA,NA,NA
+"Rumination reflection scale","15.I love exploring my ""inner"" self.","Self","Cognition",NA,NA,NA,NA
+"Rumination reflection scale","16.My attitudes and feelings about things fascinate me.","Self","Affect",NA,NA,NA,NA
+"Rumination reflection scale","17.I don't really care for introspective or self-reflective thinking.","Cognition","Self",NA,NA,NA,NA
+"Rumination reflection scale","18.I love analyzing why I do things.","Cognition","Self",NA,NA,NA,NA
+"Rumination reflection scale","19.People often say I'm a ""deep"", introspective type of person.","Self","Cognition",NA,NA,NA,NA
+"Rumination reflection scale","20.I don't care much for self-analysis.","Self","Cognition",NA,NA,NA,NA
+"Rumination reflection scale","21.I'm very self-inquisitive by nature.","Self","Cognition",NA,NA,NA,NA
+"Rumination reflection scale","22.I love to meditate on the nature and meaning of things.","Cognition","Attention",NA,NA,NA,NA
+"Rumination reflection scale","23.I often love to look at my life in philosophical ways.","Cognition","Self",NA,NA,NA,NA
+"Rumination reflection scale","24.Contemplating myself isn't my idea of fun.","Self","Cognition ",NA,NA,NA,NA
+"Self-compassion scale","1.""I’m disapproving and judgmental about my own flaws and inadequacies.""","Self","Cognition",NA,NA,NA,NA
+"Self-compassion scale","2.""When I’m feeling down I tend to obsess and fixate on everything that’s wrong.""","Affect","Attention",NA,NA,NA,NA
+"Self-compassion scale","3.""When things are going badly for me, I see the difficulties as part of life that everyone goes through.""","Cognition","Context",NA,NA,NA,NA
+"Self-compassion scale","4.""When I think about my inadequacies, it tends to make me feel more separate and cut off from the rest of the world.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","5.""I try to be loving towards myself when I’m feeling emotional pain.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","6.""When I fail at something important to me I become consumed by feelings of inadequacy.""","Affect","Self",NA,NA,NA,NA
+"Self-compassion scale","7.""When I'm down and out, I remind myself that there are lots of other people in the world feeling like I am.""","Affect","Cognition",NA,NA,NA,NA
+"Self-compassion scale","8.""When times are really difficult, I tend to be tough on myself.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","9.""When something upsets me I try to keep my emotions in balance.""","Affect","Attention",NA,NA,NA,NA
+"Self-compassion scale","10.""When I feel inadequate in some way, I try to remind myself that feelings of inadequacy are shared by most people.""","Self","Cognition",NA,NA,NA,NA
+"Self-compassion scale","11.""I’m intolerant and impatient towards those aspects of my personality I don't like.""","Self","Cognition",NA,NA,NA,NA
+"Self-compassion scale","12.""When I’m going through a very hard time, I give myself the caring and tenderness I need.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","13.""When I’m feeling down, I tend to feel like most other people are probably happier than I am.""","Affect","Cognition",NA,NA,NA,NA
+"Self-compassion scale","14.""When something painful happens I try to take a balanced view of the situation.""","Cognition","Affect",NA,NA,NA,NA
+"Self-compassion scale","15.""I try to see my failings as part of the human condition.""","Self","Cognition",NA,NA,NA,NA
+"Self-compassion scale","16.""When I see aspects of myself that I don’t like, I get down on myself.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","17.""When I fail at something important to me I try to keep things in perspective.""","Cognition","Affect",NA,NA,NA,NA
+"Self-compassion scale","18.""When I’m really struggling, I tend to feel like other people must be having an easier time of it.""","Affect","Cognition",NA,NA,NA,NA
+"Self-compassion scale","19.""I’m kind to myself when I’m experiencing suffering.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","20.""When something upsets me I get carried away with my feelings.""","Affect","Attention",NA,NA,NA,NA
+"Self-compassion scale","21.""I can be a bit cold-hearted towards myself when I'm experiencing suffering.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","22.""When I'm feeling down I try to approach my feelings with curiosity and openness.""","Affect","Attention",NA,NA,NA,NA
+"Self-compassion scale","23.""I’m tolerant of my own flaws and inadequacies.""","Self","Cognition",NA,NA,NA,NA
+"Self-compassion scale","24.""When something painful happens I tend to blow the incident out of proportion.""","Affect","Cognition",NA,NA,NA,NA
+"Self-compassion scale","25.""When I fail at something that's important to me, I tend to feel alone in my failure.""","Self","Affect",NA,NA,NA,NA
+"Self-compassion scale","26.""I try to be understanding and patient towards those aspects of my personality I don't like.""","Self","Cognition",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if the weather was bothering you?""","Cognition","Context",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you were bored by the program or activity?""","Cognition","Affect",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you felt pain when exercising?""","Cognition","Affect","Context",NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you had to exercise alone?""","Cognition","Context",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you did not enjoy it?""","Cognition","Affect",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you were too busy with other activities?""","Cognition","Context",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you felt tired?""","Cognition","Affect",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you felt stressed?""","Cognition","Affect",NA,NA,NA,NA
+"Self-efficacy for exercise","""How confident are you right now that you could exercise three times per week for 20 minutes if you felt depressed?""","Cognition","Affect ",NA,NA,NA,NA
+"Self-regulation strategies for exercise","1.""I managed my level of physical activity by charting the amount of physical activity.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Self-regulation strategies for exercise","2.""I managed my level of physical activity by asking a friend to be physically active.""","Overt Behavior","Context",NA,NA,NA,NA
+"Self-regulation strategies for exercise","3.""I managed my level of physical activity by attempting to get friends to be active instead of sedentary.""","Overt Behavior","Context",NA,NA,NA,NA
+"Self-regulation strategies for exercise","4.""I managed my level of physical activity by posting cues for physical activity.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Self-regulation strategies for exercise","5.""I managed my level of physical activity by rewarding myself for being active.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Self-regulation strategies for exercise","6.""I managed my level of physical activity by doing things to make physical activity more enjoyable.""","Overt Behavior","Affect",NA,NA,NA,NA
+"Self-regulation strategies for exercise","7.""I managed my level of physical activity by scheduling physical activity into my daily plan.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Self-regulation strategies for exercise","8.""I managed my level of physical activity by helping others be physically active.""","Overt Behavior","Context",NA,NA,NA,NA
+"Self-regulation strategies for exercise","9.""I managed my level of physical activity by setting physical activity goals.""","Overt Behavior","Motivation",NA,NA,NA,NA
+"Self-regulation strategies for exercise","10.""I managed my level of physical activity by setting aside a special time to be active.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Self-regulation strategies for exercise","11.""I managed my level of physical activity by praising myself for doing physical activity.""","Overt Behavior","Self",NA,NA,NA,NA
+"Self-regulation strategies for exercise","12.""I managed my level of physical activity by thinking about the benefits of being active.""","Cognition","Motivation",NA,NA,NA,NA
+"Self-regulation strategies for exercise","13.""I managed my level of physical activity by choosing convenient activities.""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Self-regulation strategies for exercise","14.""I managed my level of physical activity by saying positive things to myself about physical activity.""","Self","Affect",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""1.I recall information people have personally given me on the benefits of exercise.""","Cognition","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""2.I think about information from articles and advertisements on how to make exercise a regular part of my life.""","Cognition","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","3.I read articles about exercise in an attempt to learn more about it.","Cognition","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","4.I look for information related to exercise.","Cognition","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","5.Warnings about health hazards of inactivity move me emotionally.","Affect","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","6.Dramatic portrayals of the evils of inactivity move me emotionally.","Affect","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","7.I react emotionally to warnings about an inactive life style.","Affect","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""8.I feel I would be a better role model for others if I exercised regularly.""","Self","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""9.I wonder how my inactivity affects those people who are close to me.""","Context","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","10.I realize that I might be able to influence others to be healthier if I would exercise more.","Motivation","Context",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","11.Some of my close friends might exercise more if I would.","Context","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","12.I am considering the idea that regular exercise would make me a healthier, happier person to bearound.","Cognition","Self",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","13.I think about the type of person I will be if I keep exercising.","Cognition","Self",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","14.I get frustrated with myself when I don't exercise.","Affect","Self",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""15.I consider the fact that I would feel more confident in myself if I exercised regularly.""","Cognition","Self",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""16.I consider the fact that I would feel more confident in myself if I exercised regularly.""","Cognition","Self",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""17.I am aware of more and more people encouraging me to exercise these days.""","Attention","Context",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""18.I notice that more businesses are encouraging their employees to exercise by offering fitness courses and time off to work out.""","Attention","Context",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""19.I am aware that many health clubs now provide free babysitting services to their members.""","Attention","Context",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","20.Instead of remaining inactive, I engage in some physical activity.","Overt Behavior","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""21.Rather than viewing exercise as simply another task to get out of the way, I try to use it as my special time to relax and recover from the day's worries.""","Motivation","Affect",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""22.When I feel tired, I make myself exercise anyway because I know I will feel better afterward.""","Motivation","Affect",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""23.When I'm feeling tense, I find exercise a great way to relieve my worries.""","Affect","Overt Behavior",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""24.I have someone on whom I can depend when I am having problems with exercising.""","Context","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""25.I have a healthy friend who encourages me to exercise when I don't feel up to it.""","Context","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""26.I have someone who points out my rationalizations for not exercising.""","Context","Cognition",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","27.I have someone who provides feedback about my exercising.","Context","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","28.I reward myself when I exercise.","Motivation","Self",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""29.I try to set realistic goals for myself rather than setting myself up for failure by expecting too much.""","Motivation","Cognition",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""30.When I exercise, I tell myself that I am being good to myself by taking care of my body in this way.""","Self","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""31.I do something nice for myself for making efforts to exercise more.""","Self","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","32.I tell myself I am able to keep exercising if I want to.","Self","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","33.I tell myself that if I try hard enough I can keep exercising.","Self","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","34.I make commitments to exercise.","Motivation","Overt Behavior",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""35.I remind myself that I am the only one who is responsible for my health and well-being, and that only I can decide whether or not I will exercise.""","Self","Motivation",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","36.I put things around my home to remind me of exercising.","Attention","Overt Behavior",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","37.I keep things around my place of work that remind me of exercise.","Attention","Overt Behavior",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","38.I remove things that contribute to my inactivity.","Overt Behavior","Attention",NA,NA,NA,NA
+"Self report processes of change for physical activity measure","""39.I avoid spending long periods of time in environments that promote inactivity.""","Overt Behavior","Context ",NA,NA,NA,NA
+"Social adjustment scale self-report","""Have you been able to talk and listen to your children during the last two weeks?""","Attention","Context",NA,NA,NA,NA
+"Social adjustment scale self-report","""I was always able to communicate with my child during the last two weeks""","Overt Behavior","Attention",NA,NA,NA,NA
+"Social adjustment scale self-report","""I was usually able to communicate with my child during the last two weeks""","Overt Behavior","Attention",NA,NA,NA,NA
+"Social adjustment scale self-report","""About half the time I could communicate my child during the last two weeks""","Overt Behavior","Attention",NA,NA,NA,NA
+"Social adjustment scale self-report","""I was usually not able to communicate my child during the last two weeks""","Overt Behavior","Attention",NA,NA,NA,NA
+"Social adjustment scale self-report","""I was completely unable to communicate my child during the last two weeks""","Overt Behavior","Attention",NA,NA,NA,NA
+"Social adjustment scale self-report","""Not applicable; no children under the age of 2.""","Context",NA,NA,NA,NA,NA
+"Social adjustment scale self-report","""How have you been getting along with the children during the last two weeks?""","Attention","Context",NA,NA,NA,NA
+"Social adjustment scale self-report","""I had no arguments and got along very well with my child during the last two weeks""","Overt Behavior","Affect",NA,NA,NA,NA
+"Social adjustment scale self-report","""I usually got along well but had minor arguments with my child during the last two weeks""","Overt Behavior","Affect","Cognition",NA,NA,NA
+"Social adjustment scale self-report","""I had more than one argument with my child during the last two weeks""","Overt Behavior","Affect","Cognition",NA,NA,NA
+"Social adjustment scale self-report","""I had many arguments with my child during the last two weeks""","Overt Behavior","Affect","Cognition",NA,NA,NA
+"Social adjustment scale self-report","""I was constantly in arguments with my child during the last two weeks""","Overt Behavior","Affect","Cognition ",NA,NA,NA
+"Social cultural attitudes towards appearance","1.""TV programs are an important source of information about fashion and ‘‘being attractive.’’""","Cognition","Context",NA,NA,NA,NA
+"Social cultural attitudes towards appearance","2.""I’ve felt pressure from TV or magazines to lose weight.""","Affect","Motivation","Context",NA,NA,NA
+"Social cultural attitudes towards appearance","3.""I would like my body to look like the people who are on TV.""","Motivation","Self","Cognition",NA,NA,NA
+"Social cultural attitudes towards appearance","4.""I compare my body to the bodies of TV and movie stars.""","Attention","Self",NA,NA,NA,NA
+"Social cultural attitudes towards appearance","5.""I would like my body to look like the models who appear in magazines.""","Motivation","Self","Cognition",NA,NA,NA
+"Social cultural attitudes towards appearance","6.""I compare my appearance to the appearance of TV and movie stars.""","Attention","Self",NA,NA,NA,NA
+"Social cultural attitudes towards appearance","7.""Music videos on TV are an important source of information about fashion and ‘‘being attractive.’’""","Cognition","Context",NA,NA,NA,NA
+"Social cultural attitudes towards appearance","8.""I’ve felt pressure from TV and magazines to be thin.""","Affect","Motivation","Context",NA,NA,NA
+"Social cultural attitudes towards appearance","9.""I would like my body to look like the people who are in the movies.""","Motivation","Self","Cognition",NA,NA,NA
+"Social cultural attitudes towards appearance","10.""I’ve felt pressure from TV or magazines to have a perfect body.""","Affect","Motivation","Context",NA,NA,NA
+"Social cultural attitudes towards appearance","11.""I wish I looked like the models in music videos.""","Motivation","Self","Cognition",NA,NA,NA
+"Social cultural attitudes towards appearance","12.""I try to look like sports athletes.""","Motivation","Self","Overt Behavior",NA,NA,NA
+"Social cultural attitudes towards appearance","13.""Famous people are an important source of information about fashion and ‘‘being attractive.’’""","Cognition","Context",NA,NA,NA,NA
+"Social cultural attitudes towards appearance","14.""Movies stars an important source of information about fashion and ‘‘being attractive.’’""","Cognition","Context",NA,NA,NA,NA
+"Social cultural attitudes towards appearance","15.""I compare my body to that of people in ‘‘good shape.’’""","Attention","Self ",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I am leading a full life even with chronic pain.""","Motivation","Self","Context",NA,NA,NA
+"Chronic pain acceptance questionnaire","""I am getting on with the business of living regardless of pain level.""","Motivation","Overt Behavior","Context",NA,NA,NA
+"Chronic pain acceptance questionnaire","""Life is going well, even though I have chronic pain.""","Self","Context",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I am living a normal life despite chronic pain.""","Self","Context",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I am sticking to a certain course in life.""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I am able to take care of responsibilities when pain increases.""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I do not have to change pain to get on with life.""","Cognition","Context",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""It is not necessary to control pain to handle life well.""","Cognition","Context",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""There are many activities I do when I feel pain.""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""Controlling pain is less important than other goals for me.""","Motivation","Cognition",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""It is OK for me to experience pain.""","Cognition","Self",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""Before I can make plans, I have to control pain.""","Cognition","Attention",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""My thoughts and feelings must change before I can live better.""","Cognition","Affect",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""Keeping pain under control is my first priority when active.""","Attention","Motivation",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""Pain control will improve when I gain control over my thoughts.""","Cognition","Attention",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""My worries and fears about pain are accurate.""","Cognition","Affect",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I need to concentrate on getting rid of pain.""","Attention","Motivation",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I would sacrifice important things in life to get rid of pain.""","Motivation","Cognition",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I avoid situations where pain might increase.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Chronic pain acceptance questionnaire","""I have to struggle to do things when I have pain.""","Overt Behavior","Context ",NA,NA,NA,NA
+"Hopelessness scale","1. ""I might as well give up because I can't make things better for myself.""","Self","Motivation","Cognition",NA,NA,NA
+"Hopelessness scale","- ""I can't imagine what my life would be like in 10 years.""","Cognition","Self",NA,NA,NA,NA
+"Hopelessness scale","- ""My future seems dark to me.""","Cognition","Affect",NA,NA,NA,NA
+"Hopelessness scale","- ""I just don't get the breaks, and there's no reason to believe I will in the future.""","Cognition","Motivation","Self",NA,NA,NA
+"Hopelessness scale","- ""All I can see ahead of me is unpleasantness rather than pleasantness.""","Cognition","Affect",NA,NA,NA,NA
+"Hopelessness scale","- ""I don't expect to get what I really want.""","Motivation","Cognition","Self",NA,NA,NA
+"Hopelessness scale","- ""Things just won't work out the way I want them to.""","Cognition","Motivation","Self",NA,NA,NA
+"Hopelessness scale","- ""I never get what I want so it's foolish to want anything.""","Cognition","Motivation","Self",NA,NA,NA
+"Hopelessness scale","- ""It is very unlikely that I will get any real satisfaction in the future.""","Cognition","Motivation",NA,NA,NA,NA
+"Hopelessness scale","- ""The future seems vague and uncertain to me.""","Cognition",NA,NA,NA,NA,NA
+"Hopelessness scale","- ""There's no use in really trying to get something I want because I probably won't get it.""","Motivation","Cognition","Self",NA,NA,NA
+"Hopelessness scale","- ""I look forward to the future with hope and enthusiasm.""","Affect","Motivation",NA,NA,NA,NA
+"Hopelessness scale","- ""When things are going badly, I am helped by knowing they can't stay that way forever.""","Cognition","Motivation","Affect",NA,NA,NA
+"Hopelessness scale","- ""I have enough time to accomplish the things I most want to do.""","Motivation","Cognition",NA,NA,NA,NA
+"Hopelessness scale","- ""In the future, I expect to succeed in what concerns me most.""","Motivation","Self",NA,NA,NA,NA
+"Hopelessness scale","- ""I expect to get more of the good things in life than the average person.""","Motivation","Cognition","Self",NA,NA,NA
+"Hopelessness scale","- ""My past experiences have prepared me well for my future.""","Cognition","Self",NA,NA,NA,NA
+"Hopelessness scale","- ""When I look ahead to the future, I expect I will be happier than I am now.""","Cognition","Affect",NA,NA,NA,NA
+"Hopelessness scale","- ""I have great faith in the future.""","Cognition","Affect",NA,NA,NA,NA
+"Hopelessness scale","""I can look forward to more good times than bad times.""","Cognition","Affect ",NA,NA,NA,NA
+"General self-efficacy scale","""1. I can always manage to solve difficult problems if I try hard enough.""","Cognition","Motivation","Self",NA,NA,NA
+"General self-efficacy scale","""2. If someone opposes me, I can find the means and ways to get what I want.""","Cognition","Motivation",NA,NA,NA,NA
+"General self-efficacy scale","""3. It is easy for me to stick to my aims and accomplish my goals.""","Motivation","Cognition","Self",NA,NA,NA
+"General self-efficacy scale","""4. I am confident that I could deal efficiently with unexpected events.""","Self","Cognition",NA,NA,NA,NA
+"General self-efficacy scale","""5. Thanks to my resourcefulness, I know how to handle unforeseen situations.""","Cognition","Self",NA,NA,NA,NA
+"General self-efficacy scale","""6. I can solve most problems if I invest the necessary effort.""","Cognition","Motivation","Self",NA,NA,NA
+"General self-efficacy scale","""7. I can remain calm when facing difficulties because I can rely on my coping abilities.""","Self","Affect","Cognition",NA,NA,NA
+"General self-efficacy scale","""8. I can remain calm when facing difficulties because I can rely on my coping abilities.""","Self","Affect","Cognition",NA,NA,NA
+"General self-efficacy scale","""9. If I am in trouble, I can usually think of a solution.""","Cognition","Motivation",NA,NA,NA,NA
+"General self-efficacy scale","""10. I can usually handle whatever comes my way.""","Cognition","Self","Motivation ",NA,NA,NA
+"Family adaptability and cohesion scale","1.""Family members seem to avoid contact with each other when at home.""","Context","Overt Behavior",NA,NA,NA,NA
+"Family adaptability and cohesion scale","2.""Family members are too dependent on each other.""","Context","Self",NA,NA,NA,NA
+"Family adaptability and cohesion scale","3.""Our family has a rule for almost every possible situation.""","Cognition","Context",NA,NA,NA,NA
+"Family adaptability and cohesion scale","4.""We never seem to get organized in our family.""","Cognition","Overt Behavior","Context",NA,NA,NA
+"Family adaptability and cohesion scale","5.""Togetherness is a top priority in our family.""","Motivation","Context",NA,NA,NA,NA
+"Family adaptability and cohesion scale","6.""We are able to change leadership in our family.""","Overt Behavior","Context",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""1.I notice changes in my body, such as whether my breathing slows down or speeds up.""","Attention","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""2. I pay attention to whether my muscles are tense or relaxed.""","Attention","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""3. When I’m walking, I deliberately notice the sensations of my body moving.""","Attention","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""4.When I take a shower or a bath, I stay alert to the sensations of water on my body.""","Attention","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""5.I notice how foods and drinks affect my thoughts, bodily sensations, and emotions.""","Attention","Affect","Cognition",NA,NA,NA
+"Kentucky inventory of mindfulness skills","""6.I pay attention to sensations, such as the wind in my hair or sun on my face.""","Attention","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""7. I pay attention to sounds, such as clocks ticking, birds chirping, or cars passing.""","Attention",NA,NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""8.I notice the smells and aromas of things.""","Attention",NA,NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""9.I intentionally stay aware of my feelings.""","Attention","Affect",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""10. I notice visual elements in art or nature, such as colors, shapes, textures, or patterns of light and shadow.""","Attention",NA,NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""11.I pay attention to how my emotions affect my thoughts and behavior.""","Attention","Affect","Cognition",NA,NA,NA
+"Kentucky inventory of mindfulness skills","""12.I notice when my moods begin to change.""","Attention","Affect",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""13.I’m good at finding the words to describe my feelings.""","Cognition","Affect",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""14.I can easily put my beliefs, opinions, and expectations into words.""","Cognition","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""15.I’m good at thinking of words to express my perceptions, such as how things taste, smell, or sound.""","Cognition","Attention",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""16.It’s hard for me to find the words to describe what I’m thinking.""","Cognition",NA,NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""17.I have trouble thinking of the right words to express how I feel about things.""","Cognition","Affect",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""18.When I have a sensation in my body, it’s difficult for me to describe it because I can’t find the right words.""","Cognition","Attention","Self",NA,NA,NA
+"Kentucky inventory of mindfulness skills","""19.Even when I’m feeling terribly upset, I can find a way to put it into words.""","Cognition","Affect",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""20. My natural tendency is to put my experiences into words.""","Cognition","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""21.When I do things, my mind wanders off and I’m easily distracted.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""22.When I’m doing something, I’m only focused on what I’m doing, nothing else.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""23.I drive on “automatic pilot” without paying attention to what I’m doing.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""24.When I’m reading, I focus all my attention on what I’m reading.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""25.When I do things, I get totally wrapped up in them and don’t think about anything else.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""26.I don’t pay attention to what I’m doing because I’m daydreaming, worrying, or otherwise distracted.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""27.When I’m doing chores, such as cleaning or laundry, I tend to daydream or think of other things.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""28.I tend to do several things at once rather than focusing on one thing at a time.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""29. When I’m working on something, part of my mind is occupied with other topics, such as what I'll be doing later, or things I’d rather be doing.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""30.I get completely absorbed in what I’m doing, so that all my attention is focused on it.""","Attention","Overt Behavior",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""31.I criticize myself for having irrational or inappropriate emotions.""","Cognition","Affect","Self",NA,NA,NA
+"Kentucky inventory of mindfulness skills","""32.I tend to evaluate whether my perceptions are right or wrong.""","Cognition","Attention",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""33.I tell myself that I shouldn’t be feeling the way I’m feeling.""","Cognition","Affect","Self",NA,NA,NA
+"Kentucky inventory of mindfulness skills","""34. I believe some of my thoughts are abnormal or bad and I shouldn’t think that way.""","Cognition","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""35.I make judgments about whether my thoughts are good or bad.""","Cognition","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""36.I tend to make judgments about how worthwhile or worthless my experiences are.""","Cognition","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""37.I tell myself that I shouldn’t be thinking the way I’m thinking.""","Cognition","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""38. I think some of my emotions are bad or inappropriate and I shouldn’t feel them.""","Cognition","Affect","Self",NA,NA,NA
+"Kentucky inventory of mindfulness skills","""39. I disapprove of myself when I have irrational ideas.""","Cognition","Self",NA,NA,NA,NA
+"Kentucky inventory of mindfulness skills","""Over the past four weeks have you been consciously trying to restrict (cut back) the overall amount that you eat, whether or not you have succeeded?""","Overt Behavior","Motivation ",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you gone for periods of eight or more waking hours without eating anything?""","Overt Behavior",NA,NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you tried to avoid eating any foods which you like, whether or not you have succeeded?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you wanted your stomach to be empty?""","Motivation","Affect",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you spent much time between meals thinking about food, eating, or calories?""","Attention","Cognition",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you been afraid of losing control over eating?""","Affect","Cognition",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you eaten in secret?""","Overt Behavior",NA,NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you been concerned about other people seeing you eat?""","Affect","Cognition",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you felt guilty after eating?""","Affect","Self",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you had a definite desire to have a completely flat stomach?""","Motivation","Self",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you made yourself sick as a means of controlling your shape or weight?""","Overt Behavior","Cognition",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""What about your shape? How has it compared in importance with your weight in influencing how you feel about yourself?""","Self","Affect",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you been afraid that you might gain weight?""","Affect","Cognition",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you been dissatisfied with your overall shape (your figure)?""","Affect","Self",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you felt uncomfortable seeing your body, for example, in the mirror, in shop window reflections, while undressing, or while taking a bath or shower?""","Affect","Self",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you felt uncomfortable about others seeing your body, for example, in communal changing rooms, when swimming, or when wearing clothes that show your shape?""","Affect","Self",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you felt fat?""","Affect","Self",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks has your weight (the number on the scale) been important in influencing how you feel about (judge, think, evaluate) yourself as a person?""","Self","Cognition",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks how often have you weighed yourself?""","Overt Behavior",NA,NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks have you been actively monitoring your shape; for example, by scrutinising yourself in the mirror, by measuring or pinching yourself, or by repeatedly checking that certain clothes fit?""","Overt Behavior","Attention",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past four weeks how dissatisfied have you been with your weight?""","Affect","Self",NA,NA,NA,NA
+"Eating disorder examination weight concerns","""Over the past three months have you been trying to lose weight?""","Overt Behavior","Motivation ",NA,NA,NA,NA
+"Child attributional style questionnaire","   1. ""I am smart.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   2. ""I am good in the subject that the test was in.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   3. ""Once in a while people are mean to me.""","Context","Affect",NA,NA,NA,NA
+"Child attributional style questionnaire","   4. ""Once in a while I am mean to other people.""","Overt Behavior","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   5. ""My friend was in a bad mood that day.""","Context","Affect",NA,NA,NA,NA
+"Child attributional style questionnaire","   6. ""I wasn't nice to my friend that day.""","Overt Behavior","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   7. ""That person is not honest.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   8. ""Many people are not honest.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   9. ""I am good at making some things.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   10. ""My parents like some things I make.""","Context","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   11. ""I am not careful enough""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   12. ""Sometimes I am not careful enough""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   13. ""I don't work well with the people in that particular group.""","Overt Behavior","Context",NA,NA,NA,NA
+"Child attributional style questionnaire","   14. ""I never work well with groups.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   15. ""I am a nice person.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   16. ""The people that I meet are nice.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   17. ""I am usually easy to get along with when I am with my family.""","Context","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   18. ""Once in a while I am easy to get along with when I am with my family.""","Context","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   19. ""I am not a good student.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   20. ""Teachers give hard tests.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   21. ""I wasn't looking where I was going.""","Overt Behavior","Attention",NA,NA,NA,NA
+"Child attributional style questionnaire","   22. ""I have been careless lately.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   23. ""I did not clean my room that day""","Overt Behavior","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   24. ""I usually do not clean my room.""","Overt Behavior","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   25. ""There are a few things that my mother will do to please me.""","Context","Motivation",NA,NA,NA,NA
+"Child attributional style questionnaire","   26. ""My mother usually likes to please me.""","Context","Motivation",NA,NA,NA,NA
+"Child attributional style questionnaire","   27. ""The team members don't help each other when they play together.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   28. ""That day the team members didn't help each other.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   29. ""I was lazy that day.""","Self","Overt Behavior",NA,NA,NA,NA
+"Child attributional style questionnaire","   30. ""Many days I am lazy.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   31. ""I usually enjoy myself at amusement parks.""","Self","Affect",NA,NA,NA,NA
+"Child attributional style questionnaire","   32. ""I usually enjoy myself in many activities.""","Self","Affect",NA,NA,NA,NA
+"Child attributional style questionnaire","   33. ""Your friend usually gives good parties.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   34. ""Your friend gave a good party that day.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   35. ""I was well behaved during class that day.""","Overt Behavior","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   36. ""I am almost always well behaved during class.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   37. ""I am usually a fun person to be with.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   38. ""Sometimes I am a fun person to be with.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   39. ""I am good at putting puzzles together.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   40. ""I am good at doing many things.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   41. ""I am not good at sports.""","Self","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   42. ""The other kids who tried out are very good at sports.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   43. ""All tests are hard.""","Cognition","Context",NA,NA,NA,NA
+"Child attributional style questionnaire","   44. ""Only some tests are hard.""","Cognition","Context",NA,NA,NA,NA
+"Child attributional style questionnaire","   45. ""I swung the bat just right.""","Overt Behavior","Self",NA,NA,NA,NA
+"Child attributional style questionnaire","   46. ""The pitcher threw an easy pitch.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   47. ""The other kids in my class did not work hard on their papers.""","Context","Cognition",NA,NA,NA,NA
+"Child attributional style questionnaire","   48. ""I worked hard on the paper""","Overt Behavior","Self",NA,NA,NA,NA
+"Valued living questionnaire","""How important are family relations to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""How important are marriage, couples, or intimate relations to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""How important is parenting to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""How important are friendships or social relations to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""How important is employment to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""How important is education or training to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""How important is recreation to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""How important is spirituality to you?""","Motivation","Self",NA,NA,NA,NA
+"Valued living questionnaire","""How important is citizenship or community life to you?""","Motivation","Context",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of family relations, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of marriage, couples, or intimate relations, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of parenting, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of friendships or social relations, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of employment, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of education or training, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of recreation, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of spirituality, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior","Self",NA,NA,NA
+"Valued living questionnaire","""In the value area of citizenship or community life, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""In the value area of physical well-being, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior",NA,NA,NA,NA
+"Valued living questionnaire","""How important is physical well-being to you?""","Motivation","Self ",NA,NA,NA,NA
+"Treatment self regulation questionnaire","2. ""I am engaging in or changing my health behavior because stopping smoking is very important for being as healthy as possible.""","Motivation","Overt Behavior","Self",NA,NA,NA
+"Treatment self regulation questionnaire","3. ""I am engaging in or changing my health behavior because I feel that I want to take responsibility for my own health.""","Motivation","Self","Overt Behavior",NA,NA,NA
+"Treatment self regulation questionnaire","4. ""I am engaging in or changing my health behavior because I would feel guilty or ashamed of myself if I smoked.""","Motivation","Affect","Self",NA,NA,NA
+"Treatment self regulation questionnaire","5. ""I am engaging in or changing my health behavior because I feel pressure from others to stop smoking permanently.""","Motivation","Context","Affect",NA,NA,NA
+"Treatment self regulation questionnaire","6. ""I am engaging in or changing my health behavior because I want others to see I can do it.""","Motivation","Self","Context",NA,NA,NA
+"Treatment self regulation questionnaire","10. ""In the value area of family relations, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior","Context",NA,NA,NA
+"Treatment self regulation questionnaire","11. ""In the value area of spirituality, how consistently did you act according to your values in the past week?""","Motivation","Overt Behavior","Self",NA,NA,NA
+"Treatment self regulation questionnaire","12. ""I am engaging in or changing my health behavior but I don’t really know why.""","Motivation","Cognition","Overt Behavior",NA,NA,NA
+"Treatment self regulation questionnaire","13. ""I am engaging in or changing my health behavior because it is easier to do what I am told than think about stopping smoking.""","Motivation","Cognition","Overt Behavior",NA,NA,NA
+"Godlin shephard leisure time physical activity questionnaire","7. ""How many times per week did you engage in Strenous exercise (Heart beats rapidly).""","Overt Behavior",NA,NA,NA,NA,NA
+"Godlin shephard leisure time physical activity questionnaire","8. ""How many times per week did you engage in Moderate exercise (Not exhausting).""","Overt Behavior",NA,NA,NA,NA,NA
+"Godlin shephard leisure time physical activity questionnaire","9. ""How many times per week did you engage in Mild exercise (Minimal effort).""","Overt Behavior",NA,NA,NA,NA,NA
+"Chronic illness resource survey","""1.Has your doctor or other health advisor (nurse, dietician) clearly explained what you needed to do to manage your illness?""","Cognition","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""2.Has your doctor or other health advisor provided support between visits such as phone calls, reminder letters, or newsletters?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""3.Has your doctor involved you as an equal partner in making decisions about illness management strategies and goals?""","Self","Motivation","Context",NA,NA,NA
+"Chronic illness resource survey","""4.Has your doctor or other health care advisor listened carefully to what you had to say about your illness?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""5.Has your doctor or other health advisor (nurse, dietician) answered your questions and addressed your concerns during office visits?""","Cognition","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""6.Has your doctor or other health care provider thoroughly explained the results of tests you had done (e.g., cholesterol, blood pressure, or other laboratory tests)?""","Cognition","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""7.How important are health care team resources to you in managing your illness?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""8.Have family or friends exercised with you""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""9.Have family or friends listened carefully to what you had to say about your illness?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""10. Have your family or friends encouraged you to do the things you need to do to for your illness?""","Motivation","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""11.Have family or friends selected or requested healthy food choices when you ate with them?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""12.Have you shared healthy low-fat recipes with friends or family members?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""13.Have family or friends helped you remember to take your medicine?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""14.Family or friends bought food or prepared food for you that was especially healthy or recommended?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""15.How important is family and friend support in managing your illness?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""16.Have you taken time for yourself to do things that you enjoyed?""","Self","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""17.Have you congratulated or rewarded yourself for the things you did to manage your illness?""","Self","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""18.Have you focused on the things you did well to manage your illness instead of those you did not?""","Self","Cognition",NA,NA,NA,NA
+"Chronic illness resource survey","""19.Have you told others how they can help in managing your illness?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""20.Have you thought about or reviewed how you were doing in accomplishing your disease management goals?""","Cognition","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""21. Have you used prayer or meditation to provide guidance in managing your illness?""","Self","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""22.Have you arranged your schedule so that you could more easily do the things you needed to do for your illness?""","Overt Behavior","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""23.How important are personal things, like those above, that you do for yourself, in managing your illness?""","Self","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""24.Have you walked or exercised outdoors in your neighborhood?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""25. Have you talked to neighbors or others who have experience living with a chronic illness?""","Context","Cognition",NA,NA,NA,NA
+"Chronic illness resource survey","""26.Have you and your neighbors gotten together for activities such as barbecues, block or holiday parties?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""27.Have grocery stores where you shopped had a good supply of fresh fruits and vegetables?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""28.Have you walked or done other exercise activities with neighbors?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""29. Have you shared recipes or discussed healthy eating ideas with neighbors?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""30.How important are neighborhood resources in managing your illness?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""31.Have you gone to a pharmacy that had good information about your illness?""","Context","Cognition",NA,NA,NA,NA
+"Chronic illness resource survey","""32.Have you noticed healthy low-fat foods at stores where you frequently shop?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""33.Has your community made an effort to include groups and organizations of people with chronic diseases in civic activities?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""34.Have you found that people in the community accepted you and others who have chronic illnesses?""","Self","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""35.Have you eaten at a restaurant that offered a variety of tasty, low-fat food choices?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""36.Have you used public transportation to get somewhere you were going?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""37.Have you gone to parks for picnics, walks, or other outings?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""38.How important is community environment to you in managing your illness?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""39.Have you had health insurance that covered alternative therapies such as chiropractors and naturopaths?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""40.Have you read articles in newspapers or magazines about people who were successfully managing a chronic illness?""","Cognition","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""41.Have you had health insurance that covered most of the costs of your medical needs including medicine?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""42.Have you seen billboards or other advertisements that encouraged not smoking low-fat eating, or regular exercise?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""43.Have you listened to television or radio programs that focused on health or lifestyle issues?""","Cognition","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""44.Have you heard things on the news that encouraged you to take good care of your health?""","Motivation","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""45. Have you used the Internet or World Wide Web to find or share information about your illness?""","Cognition","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""46.Have you seen TV programs or heard radio programs that realistically portrayed what it’s like living with a chronic illness?""","Cognition","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""47.Have you seen TV programs or heard radio programs that provided good information on your illness?""","Cognition","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""48.How important are media and policy resources (like those above) to you in managing your illness?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""49. Have you called a national or local health organization for information about your illness (such as an 800 number)?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""50.Have people at your work, church, or other organization to which you belong shown understanding and support for your illness management efforts?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""51. Have you participated in walks or other activities for health organizations (such as Heart, Lung, Arthritis, or Diabetes associations)?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""52.Have you attended free or low-cost meetings (for example, Weight Watchers, church groups, hospital programs) that supported you in managing your illness?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""53.Have you volunteered your time for local organizations or causes?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""54.Have you attended wellness programs or fitness facilities?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""55.Have you called or visited a local health organization or hospital to look up information, view a video, or check out written materials?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""56.Have you used community resources to help manage your illness such as senior centers, community centers, or mall walking programs?""","Overt Behavior","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""57.How important are community and health organizations to you in managing your illness?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""58.Have you had a flexible work schedule that you could adjust to meet your needs?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""59. Has your work offered wellness programs or fitness facilities?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""60.Has your workplace had rules or policies that made it easier for you to manage your illness (such as no smoking rules or time off work to exercise)?""","Context","Self",NA,NA,NA,NA
+"Chronic illness resource survey","""61. Have your coworkers covered for you when you needed to do something to manage your illness or were not feeling well?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""62.Have you had control over your job in terms of making decisions and setting priorities?""","Self","Context",NA,NA,NA,NA
+"Chronic illness resource survey","""63.Has your employer provided paid time off work for health care or fitness activities?""","Context","Overt Behavior",NA,NA,NA,NA
+"Chronic illness resource survey","""64.How important are worksite support and resources to you in managing your illness?""","Context","Motivation",NA,NA,NA,NA
+"Chronic illness resource survey","""65.Please list other things that happened or other resources you used over the past 3 months that helped you to manage your illness.""","Context","Self ",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt cheerful during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt disgusted during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt attentive during the past few weeks?""","Attention","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt bashful during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt sluggish during the past few weeks?""","Overt Behavior","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt daring during the past few weeks?""","Motivation","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt surprised during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt strong during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt scornful during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt relaxed during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt irritable during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt delighted during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt inspired during the past few weeks?""","Motivation","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt fearless during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt sad during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt calm during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt afraid during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt tired during the past few weeks?""","Overt Behavior","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt amazed during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt shaky during the past few weeks?""","Overt Behavior","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt happy during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt timid during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt alone during the past few weeks?""","Affect","Self","Context",NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt alert during the past few weeks?""","Attention","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt upset during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt angry during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt bold during the past few weeks?""","Motivation","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt blue during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt shy during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt active during the past few weeks?""","Overt Behavior","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt guilty during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt joyful during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt nervous during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt lonely during the past few weeks?""","Affect","Self","Context",NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt sleepy during the past few weeks?""","Overt Behavior","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt excited during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt hostile during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt proud during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt jittery during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt lively during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt ashamed during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt at ease during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt scared during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt drowsy during the past few weeks?""","Overt Behavior","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt angry at yourself during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt enthusiastic during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt downhearted during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt sheepish during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt distressed during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt blameworthy during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt determined during the past few weeks?""","Motivation","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt frightened during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt astonished during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt interested during the past few weeks?""","Attention","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt loathing during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt confident during the past few weeks?""","Affect","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt energetic during the past few weeks?""","Overt Behavior","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt concentrating during the past few weeks?""","Attention","Self",NA,NA,NA,NA
+"Positive and negative affect scale","""To what extent have you felt dissatisfied with yourself during the past few weeks?""","Affect","Self",NA,NA,NA,NA
